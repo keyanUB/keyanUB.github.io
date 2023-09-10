@@ -7,7 +7,7 @@ redirect_from:
   - ../files/Keyan_CV.pdf
 ---
 
-{% include base_path %}
+{% ../files/Keyan_CV.pdf %}
 
 
-A PDF copy of my CV is available [here](../files/Keyan_CV.pdf).
+<!-- A PDF copy of my CV is available [here](../files/Keyan_CV.pdf). -->
