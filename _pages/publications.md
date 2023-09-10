@@ -5,17 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-- [Google Scholar](https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en) (\* Equal Contributtion)
+You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>   
+\* indicates equal contributtion
 
 - ***Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter**.*  
 Nishant Vishwamitra*, <u>Keyan Guo</u>\*, Liao Song, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu.   
@@ -40,3 +31,4 @@ Accepted by EAI International Conference on Security and Privacy in Cyber-Physic
  - ***"Demo: Understanding the Effects of Paint Colors on LiDAR Point Cloud Intensities".***  
 Shaik Sabiha, <u>Keyan Guo</u>, Foad Hajiaghajani, Chunming Qiao, Hongxin Hu, Ziming Zhao.   
 In Workshop on Automotive and Autonomous Vehicle Security (AutoSec), 2022
+
