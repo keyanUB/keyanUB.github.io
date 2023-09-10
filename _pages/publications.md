@@ -15,8 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- 
-- [Google Scholar](https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en) (\* Equal Contributtion) -->
+- [Google Scholar](https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en) (\* Equal Contributtion)
 
 - ***Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter**.*  
 Nishant Vishwamitra*, <u>Keyan Guo</u>\*, Liao Song, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu.   
