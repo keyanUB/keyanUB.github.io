@@ -34,11 +34,11 @@ News
 Collaborators 
 =====
 ### Professors
-Dr. Hongxin Hu, Dr. Ziming Zhao, Dr. Nishant Vishwamitra, Dr. Long Cheng, 
-Dr. Yongkai Wu, Dr. Xiaohong Yuan, Dr. Chunming Qiao, Dr. Feng Luo, Dr. Jeannette Wade, Dr. Sajad Khorsandroo, 
+Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), Dr. [Ziming Zhao](https://zzm7000.github.io/), Dr. [Nishant Vishwamitra](https://nishantvishwamitra.github.io/), Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), 
+Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.ncat.edu/employee-bio.php?directoryID=1518403122), Dr. [Chunming Qiao](https://cse.buffalo.edu/~qiao/index.htm), Dr. [Feng Luo](https://people.computing.clemson.edu/~luofeng/), Dr. [Jeannette Wade](https://hhs.uncg.edu/people/wade-jeannette-m/)
 
 ### Ph.D. Students
-Alex Eastman, Ebuka Okpala, Feng Wei, Foad Hajiaghajani, Gaoxiang Liu, Isabelle Ondracek, Liao Song, Md. Armanuzzaman Tomal, Mo Aldeen, Qiqing Huang, Rupam Patir, 
+Alex Eastman, [Ebuka Okpala](https://ejokpala.com/), [Feng Wei](https://www-student.cse.buffalo.edu/~fengwei/), Foad Hajiaghajani, Gaoxiang Liu, Isabelle Ondracek, [Song Liao](https://songacademic.github.io/), [Md. Armanuzzaman Tomal](https://tomal-kuet.github.io/armanuzzaman/), Mo Aldeen, Qiqing Huang, Rupam Patir, 
 Wenbo Ding, Xi Tan, Zheyuan Ma  
 (Sorted alphabetically by first name) 
 
