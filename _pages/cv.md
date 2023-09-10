@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-A PDF copy of my CV is available [here](./files/Keyan_CV.pdf).
+A PDF copy of my CV is available [here](../files/Keyan_CV.pdf).
