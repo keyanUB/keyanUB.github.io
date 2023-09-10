@@ -23,13 +23,13 @@ News
 
 <span style="color:green">\[Paper\]</span> 08/2023: Our paper *"Exploring Vulnerabilities in Voice Command Skills for Connected Vehicles"* has been accepted by **EAI SmartSP 2023**.
 
-<span style="color:gold">\[Paper\]</span> 04/2023: We present our work *"Mitigating Online Hate in the Evolving Cyber Environment: Rapid Adaptation and Moderation of Emerging Threats"* in **Great Lakes Security Day (GLSD) 2023**.
+<span style="color:coral">\[Talk\]</span> 04/2023: We present our work *"Mitigating Online Hate in the Evolving Cyber Environment: Rapid Adaptation and Moderation of Emerging Threats"* in **Great Lakes Security Day (GLSD) 2023**.
 
 <span style="color:green">\[Paper\]</span> 11/2022: Our paper *"Understanding the Generalizability of Hateful Memes Detection Models Against COVID-19-related Hateful Memes"* has been accepted by **ICMLA 2022**.
 
-<span style="color:pink">\[Award\]</span> 11/2022: I am very honored to be the recipient of the *CSE Best Graduate Teaching Award* in Univerisity at Buffalo.
+<span style="color:violet">\[Award\]</span> 11/2022: I am very honored to be the recipient of the *CSE Best Graduate Teaching Award* in Univerisity at Buffalo.
 
-<span style="color:gold">\[Talk\]</span> 11/2022: We present our demo paper *"Understanding the Effects of Paint Colors on LiDAR Point Cloud Intensities"* in workshop on  **AutoSec 2022**.
+<span style="color:coral">\[Talk\]</span> 11/2022: We present our demo paper *"Understanding the Effects of Paint Colors on LiDAR Point Cloud Intensities"* in workshop on  **AutoSec 2022**.
 
 Collaborators 
 =====
