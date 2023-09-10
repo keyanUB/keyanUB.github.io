@@ -31,6 +31,7 @@ News
 
 <span style="color:coral">\[Talk\]</span> 11/2022: We present our demo paper *"Understanding the Effects of Paint Colors on LiDAR Point Cloud Intensities"* in workshop on  **AutoSec 2022**.
 
+
 Collaborators 
 =====
 ### Professors
