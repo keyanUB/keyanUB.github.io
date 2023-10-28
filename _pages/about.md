@@ -15,7 +15,9 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
-<span style="color:green">\[Paper\]</span> 11/2022: Our paper *"An Investigation of Large Language Models for Real-World Hate Speech Detection"* has been accepted by **ICMLA 2023**!
+<span style="color:green">\[Paper\]</span> 10/2022: Our paper *" Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models"* has been accepted by **<span style="color:red">S&P(Oakland) 2024</span>**!
+
+<span style="color:green">\[Paper\]</span> 10/2022: Our paper *"An Investigation of Large Language Models for Real-World Hate Speech Detection"* has been accepted by **ICMLA 2023**!
 
 <span style="color:coral">\[Talk\]</span> 09/2023: I present our paper *"Understanding and Measuring Robustness of Vision and Language Multimodal Models"* in the International Conference on Secure Knowledge Management!
 
