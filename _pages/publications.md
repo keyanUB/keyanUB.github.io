@@ -8,11 +8,11 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en)  
 \* indicates equal contribution
 
-- ***Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models***
+- ***"Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models".***  
   Nishant Vishwamitra\*, <u>Keyan Guo</u>\*, Farhan Tajwar Romit, Isabelle Ondracek, Long Cheng, Ziming Zhao, Hongxin Hu.  
   Accepted by 25th IEEE Symposium on Security and Privacy (S&P), 2024
 
-- ***An Investigation of Large Language Models for Real-World Hate Speech Detection.***
+- ***"An Investigation of Large Language Models for Real-World Hate Speech Detection".***  
   <u>Keyan Guo</u>, Alexander Hu, Jaden Mu, Ziheng Shi, Ziming Zhao, Nishant Vishwamitra, Hongxin Hu.
    Accepted by 22st IEEE International Conference on Machine Learning and Applications (ICMLA), 2023
 - ***"Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter".***  
