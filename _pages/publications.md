@@ -27,7 +27,7 @@ Ebuka Okpala, Nishant Vishwamitra, <u>Keyan Guo</u>, Liao Song, Long Cheng, Hong
 Nishant Vishwamitra, <u>Keyan Guo</u>, Hongxin Hu, Ziming Zhao, Long Cheng, Feng Luo.  
  Accepted by International Conference on Secure Knowledge Management, 2023
 
-- ***Exploring Vulnerabilities in Voice Command Skills for Connected Vehicles".***  
+- ***"Exploring Vulnerabilities in Voice Command Skills for Connected Vehicles".***  
 Wenbo Ding, Liao Song, <u>Keyan Guo</u>, Ziming Zhao, Hongxin Hu.    
 Accepted by EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (EAI SmartSP), 2023
 
