@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3nd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of online hate and offensiveness, AI/ML security, OSNs security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage has been invaluable to my work. 
+I'm a 3nd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of large-scale generative AI, online hate and offensiveness, AI/ML security, OSNs security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage has been invaluable to my work. 
 
 Please feel free to contact me via email, I would be more than happy to have a discussion and to learn from you.
 
