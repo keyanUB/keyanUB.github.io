@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keyan's Personal Website"
 title_separator          : "-"
 name                     : &name "Keyan Guo"
-description              : &description "I'm a 2nd-year Ph.D. student at University at Buffalo, SUNY. I'm interested in the study of online hate and offensiveness, AI/ML security, OSNs security and more relevant research topics. I'm honored to work under the guidance of Dr. {Hongxin Hu}(https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage has been invaluable to my work. \n\n You are very welcome to contact me, and I am always happy to discuss and learn from you."
+description              : &description "I'm a 3rd-year Ph.D. student at University at Buffalo, SUNY. I'm interested in the study of online hate and offensiveness, AI/ML security, OSNs security and more relevant research topics. I'm honored to work under the guidance of Dr. {Hongxin Hu}(https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage has been invaluable to my work. \n\n You are very welcome to contact me, and I am always happy to discuss and learn from you."
 url                      : https://keyanub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "keyanUB/keyanUB.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Keyan Guo"
-  avatar           : "profile.jpeg"
+  avatar           : "keyan.jpg"
   bio              : "Ph.D. Student \n Department of Computer Science and Engineering, Univeristy at Buffalo"
   location         : "Buffalo, NY, USA"
   employer         :
