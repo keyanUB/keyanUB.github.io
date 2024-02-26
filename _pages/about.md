@@ -14,6 +14,9 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
+
+<span style="color:violet">\[Award\]</span> 12/2023: I am very honored to win the 2023 Annual CSE Poster Competition and be the recipient of the *CSE Best AI Poster Award* at Univerisity at Buffalo.
+
 <span style="color:coral">\[Talk\]</span> 12/2023: I present our paper *"An Investigation of Large Language Models for Real-World Hate Speech Detection"* in the International Conference on Machine Learning and Applications (ICMLA)!
 
 <span style="color:green">\[Paper\]</span> 10/2022: Our paper *" Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models"* has been accepted by **<span style="color:red">S&P(Oakland) 2024</span>**!
