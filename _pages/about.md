@@ -46,17 +46,18 @@ News
 Collaborators 
 =====
 ### Professors
-Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), Dr. [Ziming Zhao](https://zzm7000.github.io/), Dr. [Nishant Vishwamitra](https://nishantvishwamitra.github.io/), Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), 
+Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), Dr. [Ziming Zhao](https://zzm7000.github.io/), Dr. [Nishant Vishwamitra](https://nishantvishwamitra.github.io/), Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), Dr. [Guo Freeman](https://guof.people.clemson.edu)
 Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.ncat.edu/employee-bio.php?directoryID=1518403122), Dr. [Chunming Qiao](https://cse.buffalo.edu/~qiao/index.htm), Dr. [Feng Luo](https://people.computing.clemson.edu/~luofeng/), Dr. [Jeannette Wade](https://hhs.uncg.edu/people/wade-jeannette-m/)
 
 ### Ph.D. Students
-Alex Eastman, [Ebuka Okpala](https://ejokpala.com/), [Feng Wei](https://www-student.cse.buffalo.edu/~fengwei/), Foad Hajiaghajani, Gaoxiang Liu, Isabelle Ondracek, [Song Liao](https://songacademic.github.io/), [Md. Armanuzzaman Tomal](https://tomal-kuet.github.io/armanuzzaman/), Mo Aldeen, Qiqing Huang, Rupam Patir, 
-Wenbo Ding, Xi Tan, Zheyuan Ma  
-(Sorted alphabetically by first name) 
+[Alex Eastman](https://www.linkedin.com/in/alexeast99/), [Ebuka Okpala](https://ejokpala.com/), [Feng Wei](https://www-student.cse.buffalo.edu/~fengwei/), [Foad Hajiaghajani](https://ubwp.buffalo.edu/cavas/team-members/foad-hajiaghajani/), [Gaoxiang Liu](https://www.linkedin.com/in/gaoxiang-liu-831571132/), [Isabelle Ondracek](https://www.linkedin.com/in/isabelle-ondracek/?trk=people_directory), [Song Liao](https://songacademic.github.io/), [Md. Armanuzzaman Tomal](https://tomal-kuet.github.io/armanuzzaman/), [Mohammed Aldeen](https://scholar.google.com/citations?user=jSVFlYUAAAAJ&hl=en), [Qiqing Huang](https://www.linkedin.com/in/qiqing-huang-7145a810a/?locale=en_US), [Rupam Patir](https://www.linkedin.com/in/rupam-patir-323b4797/), 
+[Wenbo Ding](https://www.linkedin.com/in/wenbo-ding-77416414b/), [Xi Tan](https://mintancy.github.io), [Zheyuan Ma](https://scholar.google.com/citations?user=3ZKnS6EAAAAJ&hl=en)  
+*\*Sorted alphabetically by first name* 
 
 ### (Under-)Graduate Students
-Amardhruva Narasimha Prabhu, Ayush Utkarsh, Pal Dave, Shaik Sabiha  
-(Sorted alphabetically by first name) 
+[Amardhruva Narasimha Prabhu](https://www.linkedin.com/in/amardhruva/), [Ayush Utkarsh](https://www.linkedin.com/in/ayushutkarsh/), [Pal Dave](https://www.linkedin.com/in/pal-dave-59b6b3182/?originalSubdomain=in), [Shaik Sabiha](https://www.linkedin.com/in/sabiha-shaik/)  
+*\*Sorted alphabetically by first name*  
 ### High School Students
-Alexander Hu, Jaden Mu, Wentai Zhao, Ziheng Shi  
-(Sorted alphabetically by first name) 
+
+Alexander Hu, David Cong, Helen Qin, Jaden Mu, Wentai Zhao, Ziheng Shi  
+*\*Sorted alphabetically by first name* 
