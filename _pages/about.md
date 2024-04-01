@@ -14,6 +14,8 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
+<span style="color:yellow">\[Media\]</span> 04/2024: Our ASONAM 2023 paper *"Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter"* was selected to appear in the [**ACM Showcase on Kudos**](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.growkudos.com%2Fpublications%2F10.1145%2525252F3625007.3630111%2Freader&data=05%7C02%7Ckeyanguo%40g-mail.buffalo.edu%7Cc63749ea1ae94ba7363708dc5269387b%7C96464a8af8ed40b199e25f6b50a20250%7C0%7C0%7C638475859095188666%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=9XVDTIX6fM1GcjMvtL14nPTwaZ3JqllX4Kc8yv9aysE%3D&reserved=0)</span>!
+
 <span style="color:green">\[Paper\]</span> 03/2024: Our paper *"Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models"* has been accepted by **<span style="color:red">USENIX Security 2024</span>**!
 
 <span style="color:violet">\[Award\]</span> 12/2023: I am very honored to win the 2023 Annual CSE Poster Competition and be the recipient of the *CSE Best AI Poster Award* at Univerisity at Buffalo.
