@@ -14,6 +14,8 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
+<span style="color:deepskyblue">\[Media\]</span> 05/2024: Our recent work about unsafe user-generated content games has been selected or poster presentation at the **<span style="color:red">45 IEEE Symposium on Security and Privacy (SP 2024)**.
+
 <span style="color:deepskyblue">\[Media\]</span> 04/2024: Our ASONAM 2023 paper *"Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter"* was selected to appear in the **ACM Showcase on Kudos**!
 
 <span style="color:green">\[Paper\]</span> 03/2024: Our paper *"Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models"* has been accepted by **<span style="color:red">USENIX Security 2024</span>**!
