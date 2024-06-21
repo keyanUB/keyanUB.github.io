@@ -16,7 +16,7 @@ News
 ======
 <span style="color:coral">\[Talk\]</span> 06/2024: I'm pleased to present our tutorials on: *Machine Learning Based Online Abuse Defense: Platform, Research, and Hands-on Labs.* in **AAAI ICWSM 2024**!
 
-<span style="color:deepskyblue">\[Media\]</span> 05/2024: Our recent work about unsafe user-generated content games has been selected or poster presentation at the **<span style="color:red">45th IEEE Symposium on Security and Privacy**!
+<span style="color:deepskyblue">\[Media\]</span> 05/2024: Our recent work about unsafe user-generated content games has been selected or poster presentation at the **<span style="color:red">45th IEEE Symposium on Security and Privacy</span>**!
 
 <span style="color:green">\[Paper\]</span> 04/2024: We have an accepted position statement at **CHI 2024** Workshop!
 
