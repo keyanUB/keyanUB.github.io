@@ -14,6 +14,8 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
+<span style="color:green">\[Paper\]</span> 03/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
+
 <span style="color:coral">\[Talk\]</span> 08/2023: I present our paper *"Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models"* in the **<span style="color:red"> 33rd USENIX Security Sumposium</span>**!
 
 <span style="color:violet">\[Award\]</span> 07/2022: I am very honored to be selected as a recipient of **USENIX Conference Student Grant**.
