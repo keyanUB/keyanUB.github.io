@@ -14,7 +14,9 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
-<span style="color:green">\[Paper\]</span> 03/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
+
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in understanding cyberbullying images has been accepted by International Conference on Machine Learning and Applications (ICMLA) 2025!
 
 <span style="color:coral">\[Talk\]</span> 08/2023: I present our paper *"Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models"* in the **<span style="color:red"> 33rd USENIX Security Sumposium</span>**!
 
@@ -32,13 +34,13 @@ News
 
 <span style="color:violet">\[Award\]</span> 12/2023: I am very honored to win the 2023 Annual CSE Poster Competition and be the recipient of the *CSE Best AI Poster Award* at Univerisity at Buffalo.
 
-<span style="color:coral">\[Talk\]</span> 12/2023: I present our paper *"An Investigation of Large Language Models for Real-World Hate Speech Detection"* in the International Conference on Machine Learning and Applications (ICMLA)!
+<span style="color:coral">\[Talk\]</span> 12/2023: I present our paper *"An Investigation of Large Language Models for Real-World Hate Speech Detection"* in International Conference on Machine Learning and Applications (ICMLA)!
 
 <span style="color:green">\[Paper\]</span> 10/2023: Our paper *"Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models"* has been accepted by **<span style="color:red">S&P(Oakland) 2024</span>**!
 
 <span style="color:green">\[Paper\]</span> 10/2023: Our paper *"An Investigation of Large Language Models for Real-World Hate Speech Detection"* has been accepted by **ICMLA 2023**!
 
-<span style="color:coral">\[Talk\]</span> 09/2023: I present our paper *"Understanding and Measuring Robustness of Vision and Language Multimodal Models"* in the International Conference on Secure Knowledge Management!
+<span style="color:coral">\[Talk\]</span> 09/2023: I present our paper *"Understanding and Measuring Robustness of Vision and Language Multimodal Models"* in International Conference on Secure Knowledge Management!
 
 <span style="color:green">\[Paper\]</span> 09/2023: Our paper *"Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter"* has been accepted by **ASONAM 2023**!
 
@@ -73,6 +75,6 @@ Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.nc
 *\*Sorted alphabetically by first name*  
 ### High School Students
 
-Alexander Hu, David Cong, Helen Qin, Ishan Ajay, Jaden Mu, Wentai Zhao
+Alexander Hu (Now at University of California, Los Angeles), David Cong, Helen Qin, Ishan Ajay, Jaden Mu, Johnson Chen, Wentai Zhao (Now at University of Michigan)
 
 *\*Sorted alphabetically by first name* 
