@@ -14,13 +14,17 @@ Please feel free to contact me via email, I would be more than happy to have a d
 
 News
 ======
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent work in AI-Cybersecurity education with cyberharassment detection labs has been accepted by **28th CISSE**!
+
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent work in designing learnign platform to enhance AI-centered Social Cybersecurity Education has been accepted by **28th CISSE**!
+
 <span style="color:green">\[Paper\]</span> 10/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
 
-<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in understanding cyberbullying images has been accepted by International Conference on Machine Learning and Applications (ICMLA) 2025!
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in understanding cyberbullying images has been accepted by **ICMLA** 2025!
 
-<span style="color:coral">\[Talk\]</span> 08/2023: I present our paper *"Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models"* in the **<span style="color:red"> 33rd USENIX Security Sumposium</span>**!
+<span style="color:coral">\[Talk\]</span> 08/2024: I present our paper *"Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models"* in the **<span style="color:red"> 33rd USENIX Security Sumposium</span>**!
 
-<span style="color:violet">\[Award\]</span> 07/2022: I am very honored to be selected as a recipient of **USENIX Conference Student Grant**.
+<span style="color:violet">\[Award\]</span> 07/2024: I am very honored to be selected as a recipient of **USENIX Conference Student Grant**.
 
 <span style="color:coral">\[Talk\]</span> 06/2024: I'm pleased to present our tutorials on: *Machine Learning Based Online Abuse Defense: Platform, Research, and Hands-on Labs.* in **AAAI ICWSM 2024**!
 
