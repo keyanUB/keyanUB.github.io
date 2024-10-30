@@ -9,18 +9,18 @@ redirect_from:
 
 I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of large-scale generative AI, online hate and offensiveness, AI/ML security, Generative AI for Public Good, OSNs security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
 
-Please feel free to contact me via email, I would be more than happy to have a discussion and to learn from you.
+Please feel free to contact me via [email](keyanguo@buffalo.edu), I would be more than happy to have a discussion and to learn from you.
 
 
 News
 ======
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
+
 <span style="color:green">\[Paper\]</span> 10/2024: Our recent work in AI-Cybersecurity education with cyberharassment detection labs has been accepted by **28th CISSE**!
 
 <span style="color:green">\[Paper\]</span> 10/2024: Our recent work in designing learnign platform to enhance AI-centered Social Cybersecurity Education has been accepted by **28th CISSE**!
 
-<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
-
-<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in understanding cyberbullying images has been accepted by **ICMLA** 2025!
+<span style="color:green">\[Paper\]</span> 10/2024: Our recent study in understanding cyberbullying images has been accepted by **ICMLA** 2024!
 
 <span style="color:coral">\[Talk\]</span> 08/2024: I present our paper *"Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models"* in the **<span style="color:red"> 33rd USENIX Security Sumposium</span>**!
 
