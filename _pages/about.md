@@ -6,10 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of large-scale generative AI, AI and security, generative AI for public good, online social network security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
 
-I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of large-scale generative AI, online hate and offensiveness, AI/ML security, Generative AI for Public Good, OSNs security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
+I'm open and glad to collaborate. Please feel free to contact me via [email](keyanguo@buffalo.edu), I would be more than happy to have a discussion and to learn from you.
 
-Please feel free to contact me via [email](keyanguo@buffalo.edu), I would be more than happy to have a discussion and to learn from you.
+
+***<span style="color:red">I am currently seeking a Summer 2025 internship opportunity.</span>***
 
 
 News
