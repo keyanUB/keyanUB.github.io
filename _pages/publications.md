@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=G56tDvIAAAAJ&hl=en)  
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en)  
 \* indicates equal contribution
 - ***"Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models".***  
   <u>Keyan Guo</u>, Ayush Utkarsh, Wenbo Ding, Isabelle Ondracek, Ziming Zhao, Guo Freeman, Nishant Vishwamitra, Hongxin Hu.  
