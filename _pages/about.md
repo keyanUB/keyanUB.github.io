@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of large-scale generative AI, AI and security, generative AI for public good, online social network security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
+I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of generative AI (GenAI), AI and security, GenAI Safety, generative AI for public good, online social network security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
 
 I'm open and glad to collaborate. Please feel free to contact me via [email](keyanguo@buffalo.edu), I would be more than happy to have a discussion and to learn from you.
 
@@ -16,6 +16,8 @@ I'm open and glad to collaborate. Please feel free to contact me via [email](key
 
 News
 ======
+<span style="color:orange">\[Service\]</span> 11/2024: I am honored to be a member of the program committee for the 34th USENIX Security Symposium!
+
 <span style="color:green">\[Paper\]</span> 10/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
 
 <span style="color:green">\[Paper\]</span> 10/2024: Our recent work in AI-Cybersecurity education with cyberharassment detection labs has been accepted by **28th CISSE**!
