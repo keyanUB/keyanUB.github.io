@@ -8,19 +8,17 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en)  
 \* indicates equal contribution
 
-- ***"I know what you MEME! Understanding and
-Detecting Harmful Memes with Multimodal Large
-Language Models".***  
-  Yong Zhuang\*, <u>Keyan Guo</u>\*, Yiheng Jing, Juan Wang, Xiaoyang Xu, Wenzhe Yi, Mengda Yang, Bo Zhao, Hongxin Hu.  
-  Accepted by Network and Distributed System Security Symposium (NDSS), 2025
+- ***"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models".***  
+  <u>Keyan Guo</u>\*, Yong Zhuang\*, Juan Wang,Yiheng Jing, Xiaoyang Xu, Wenzhe Yi, Mengda Yang, Bo Zhao, Hongxin Hu.  
+  Will be published in **Network and Distributed System Security Symposium (NDSS)**, 2025
 
 - ***"Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models".***  
   <u>Keyan Guo</u>, Ayush Utkarsh, Wenbo Ding, Isabelle Ondracek, Ziming Zhao, Guo Freeman, Nishant Vishwamitra, Hongxin Hu.  
-  In 33rd USENIX Security Symposium (USENIX Security), 2024
+  In 33rd **USENIX Security Symposium (USENIX Security)**, 2024
 
 - ***"Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models".***  
   Nishant Vishwamitra\*, <u>Keyan Guo</u>\*, Farhan Tajwar Romit, Isabelle Ondracek, Long Cheng, Ziming Zhao, Hongxin Hu.  
-  In 45th IEEE Symposium on Security and Privacy (S&P), 2024
+  In 45th **IEEE Symposium on Security and Privacy (S&P)**, 2024
 
 - ***"An Investigation of Large Language Models for Real-World Hate Speech Detection".***  
   <u>Keyan Guo</u>, Alexander Hu, Jaden Mu, Ziheng Shi, Ziming Zhao, Nishant Vishwamitra, Hongxin Hu.
