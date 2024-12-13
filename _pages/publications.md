@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 \* indicates equal contribution
 
 - ***"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models".***  
-  <u>Keyan Guo</u>\*, Yong Zhuang\*, Juan Wang,Yiheng Jing, Xiaoyang Xu, Wenzhe Yi, Mengda Yang, Bo Zhao, Hongxin Hu.  
+  Yong Zhuang\*, <u>Keyan Guo</u>\*, Juan Wang,Yiheng Jing, Xiaoyang Xu, Wenzhe Yi, Mengda Yang, Bo Zhao, Hongxin Hu.  
   Will be published in **Network and Distributed System Security Symposium (NDSS)**, 2025
 
 - ***"Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models".***  
