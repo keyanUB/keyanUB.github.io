@@ -10,8 +10,8 @@ I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in
 
 I welcome collaboration and would love to discuss any intriguing subjects. Don’t hesitate to reach out to me at [email](keyanguo@buffalo.edu). I’m eager to learn from you.
 
->[!NOTE]
->I am currently looking for a 2025 summer internship position and would appreciate your support 🤩
+
+<span style="color:red">***I am currently looking for a 2025 summer internship position and would appreciate your support***</span> 🤩
 
 
 News
