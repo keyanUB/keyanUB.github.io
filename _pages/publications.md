@@ -8,6 +8,9 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en)  
 \* indicates equal contribution
 
+- ***"JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation".***  
+  Under minor revision process of **USENIX Security Symposium (USENIX Security)**, 2025
+
 - ***"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models".***  
   Yong Zhuang\*, <u>Keyan Guo</u>\*, Juan Wang,Yiheng Jing, Xiaoyang Xu, Wenzhe Yi, Mengda Yang, Bo Zhao, Hongxin Hu.  
   Will be published in **Network and Distributed System Security Symposium (NDSS)**, 2025
