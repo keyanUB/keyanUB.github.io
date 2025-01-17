@@ -16,6 +16,8 @@ I welcome collaboration and would love to discuss any intriguing subjects. Donâ€
 
 News
 ======
+<span style="color:violet">\[Award\]</span> 01/2025: I am very honored to selected as a recipient of **Internet Society Fellowship** at NDSS 2025.
+
 <span style="color:violet">\[Award\]</span> 12/2024: I am very honored to be the recipient of the **CSE Best Research Project (PhD) Award** at Univerisity at Buffalo.
 
 <span style="color:orange">\[Service\]</span> 11/2024: I am honored to become a member of the program committee for the 34th USENIX Security Symposium!
