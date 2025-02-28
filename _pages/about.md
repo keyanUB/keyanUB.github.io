@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a 3rd-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of generative AI (GenAI), AI and security, GenAI Safety, GenAI for Public Good, online social network security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
+I'm a 4th-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in the study of generative AI (GenAI), AI and security, GenAI Safety, GenAI for Public Good, online social network security and more relevant research topics. I'm honored to work under the guidance of Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), whose expertise and tutelage have been invaluable to my work. 
 
 I welcome collaboration and would love to discuss any intriguing subjects. Don’t hesitate to reach out to me at [email](keyanguo@buffalo.edu). I’m eager to learn from you.
 
@@ -16,6 +16,8 @@ I welcome collaboration and would love to discuss any intriguing subjects. Don�
 
 News
 ======
+<span style="color:coral">\[Talk\]</span> 02/2025: I present our paper *"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models."* in the **<span style="color:red"> 2025 Network and Distributed System Security (NDSS) Symposium</span>**!
+
 <span style="color:green">\[Paper\]</span> 02/2025: Our recent study in detecting and mitigating jailbreak attacks for large language models has been accepted by **<span style="color:red">USENIX Security Symposium 2025</span>**!
 
 <span style="color:violet">\[Award\]</span> 01/2025: I am very honored to selected as a recipient of **Internet Society Fellowship** at NDSS 2025.
@@ -81,11 +83,11 @@ Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.nc
 
 ### Ph.D. Students
 [Ebuka Okpala](https://ejokpala.com/), [Feng Wei](https://www-student.cse.buffalo.edu/~fengwei/), [Foad Hajiaghajani](https://ubwp.buffalo.edu/cavas/team-members/foad-hajiaghajani/), [Gaoxiang Liu](https://www.linkedin.com/in/gaoxiang-liu-831571132/), [Isabelle Ondracek](https://www.linkedin.com/in/isabelle-ondracek/?trk=people_directory), [Song Liao](https://songacademic.github.io/), [Md. Armanuzzaman Tomal](https://tomal-kuet.github.io/armanuzzaman/), [Mohammed Aldeen](https://scholar.google.com/citations?user=jSVFlYUAAAAJ&hl=en), [Qiqing Huang](https://www.linkedin.com/in/qiqing-huang-7145a810a/?locale=en_US), [Rupam Patir](https://www.linkedin.com/in/rupam-patir-323b4797/), 
-[Wenbo Ding](https://www.linkedin.com/in/wenbo-ding-77416414b/), [Xi Tan](https://mintancy.github.io), Yong Zhuang, [Zheyuan Ma](https://scholar.google.com/citations?user=3ZKnS6EAAAAJ&hl=en)  
+[Wenbo Ding](https://www.linkedin.com/in/wenbo-ding-77416414b/), [Xi Tan](https://mintancy.github.io), Yong Zhuang, [Shenyi Zhang](https://scholar.google.com/citations?user=xj4Mxp8AAAAJ&hl=zh-CN), [Zheyuan Ma](https://scholar.google.com/citations?user=3ZKnS6EAAAAJ&hl=en)  
 *\*Sorted alphabetically by first name* 
 
 ### (Under-)Graduate Students
-[Amardhruva Narasimha Prabhu](https://www.linkedin.com/in/amardhruva/), [Ayush Utkarsh](https://www.linkedin.com/in/ayushutkarsh/), [Pal Dave](https://www.linkedin.com/in/pal-dave-59b6b3182/?originalSubdomain=in), [Shaik Sabiha](https://www.linkedin.com/in/sabiha-shaik/)  
+[Amardhruva Narasimha Prabhu](https://www.linkedin.com/in/amardhruva/), [Ayush Utkarsh](https://www.linkedin.com/in/ayushutkarsh/), [Pal Dave](https://www.linkedin.com/in/pal-dave-59b6b3182/?originalSubdomain=in), [Radhika Singh](https://www.linkedin.com/in/radhika-singh-10/), [Shaik Sabiha](https://www.linkedin.com/in/sabiha-shaik/)  
 *\*Sorted alphabetically by first name*  
 ### High School Students
 
