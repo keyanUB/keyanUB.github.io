@@ -24,7 +24,7 @@ News
 
 <span style="color:violet">\[Award\]</span> 12/2024: I am very honored to be the recipient of the **CSE Best Research Project (PhD) Award** at Univerisity at Buffalo.
 
-<span style="color:orange">\[Service\]</span> 11/2024: I am honored to become a member of the program committee for the 34th USENIX Security Symposium!
+<span style="color:orange">\[Service\]</span> 11/2024: I am honored to become a member of the artifacts technical program committee for the 34th USENIX Security Symposium!
 
 <span style="color:green">\[Paper\]</span> 10/2024: Our recent study in detecting harmful memes has been accepted by **<span style="color:red">NDSS Symposium 2025</span>**!
 
