@@ -16,6 +16,8 @@ I welcome collaboration and would love to discuss any intriguing subjects. Donâ€
 
 News
 ======
+<span style="color:orange">\[Service\]</span> 05/2025: I will serve on the Program Committee of ASONAM 2025.
+
 <span style="color:coral">\[Talk\]</span> 02/2025: I present our paper *"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models."* in the **<span style="color:red"> 2025 Network and Distributed System Security (NDSS) Symposium</span>**!
 
 <span style="color:green">\[Paper\]</span> 02/2025: Our recent study in detecting and mitigating jailbreak attacks for large language models has been accepted by **<span style="color:red">USENIX Security Symposium 2025</span>**!
