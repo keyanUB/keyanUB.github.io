@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Keyan Guo"
   avatar           : "keyan.jpg"
-  bio              : "Ph.D. Candidate \n Department of Computer Science and Engineering, Univeristy at Buffalo"
+  bio              : "I am a PhD candidate in the Department of Computer Science and Engineering at University at Buffalo, supervised by Dr. Hongxin Hu. My background is in AI and cybersecurity, and I am strongly interested in developing AI-driven solutions to address real-world security challenges and enhance AI safety and robustness."
   location         : "Buffalo, NY, USA"
   employer         :
   pubmed           : 
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en"
   email            : "keyanguo@buffalo.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
