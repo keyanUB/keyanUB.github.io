@@ -96,8 +96,7 @@ Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.nc
 ### (Under-)Graduate Students
 [Amardhruva Narasimha Prabhu](https://www.linkedin.com/in/amardhruva/), [Ayush Utkarsh](https://www.linkedin.com/in/ayushutkarsh/), [Pal Dave](https://www.linkedin.com/in/pal-dave-59b6b3182/?originalSubdomain=in), [Radhika Singh](https://www.linkedin.com/in/radhika-singh-10/), [Shaik Sabiha](https://www.linkedin.com/in/sabiha-shaik/)  
 *\*Sorted alphabetically by first name*  
+
 ### High School Students
-
-Alexander Hu (Now at University of California, Los Angeles), David Cong, Helen Qin, Ishan Ajay, Jaden Mu, Johnson Chen, Wentai Zhao (Now at University of Michigan)
-
+Alexander Hu (Now at University of California, Los Angeles), David Cong (Now at Duke University), Helen Qin, Ishan Ajay, Jaden Mu (Now at Carnegie Mellon University), Johnson Chen, Wentai Zhao (Now at University of Michigan)
 *\*Sorted alphabetically by first name* 
