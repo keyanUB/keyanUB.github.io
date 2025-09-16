@@ -8,12 +8,16 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en)  
 \* indicates equal contribution
 
+- ***"HVGuard: Utilizing Multimodal Large Language Models for Hateful Video Detection".*** 
+  Accepted for presentation at the Main Conference in the Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, 2025
+
 - ***"JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation".***  
-  Under minor revision process of **USENIX Security Symposium (USENIX Security)**, 2025
+  Shenyi Zhang, Yuchen Zhai, <u>Keyan Guo</u>, Hongxin Hu, Shengnan Guo, Zheng Fang, Lingchen Zhao, Chao Shen, Cong Wang, Qian Wang.
+  In 34th **USENIX Security Symposium (USENIX Security)**, 2025
 
 - ***"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models".***  
   Yong Zhuang\*, <u>Keyan Guo</u>\*, Juan Wang,Yiheng Jing, Xiaoyang Xu, Wenzhe Yi, Mengda Yang, Bo Zhao, Hongxin Hu.  
-  Will be published in **Network and Distributed System Security Symposium (NDSS)**, 2025
+  In **Network and Distributed System Security Symposium (NDSS)**, 2025
 
 - ***"Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models".***  
   <u>Keyan Guo</u>, Ayush Utkarsh, Wenbo Ding, Isabelle Ondracek, Ziming Zhao, Guo Freeman, Nishant Vishwamitra, Hongxin Hu.  
@@ -25,7 +29,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - ***"An Investigation of Large Language Models for Real-World Hate Speech Detection".***  
   <u>Keyan Guo</u>, Alexander Hu, Jaden Mu, Ziheng Shi, Ziming Zhao, Nishant Vishwamitra, Hongxin Hu.
-   Accepted by 22st IEEE International Conference on Machine Learning and Applications (ICMLA), 2023
+  In 22st IEEE International Conference on Machine Learning and Applications (ICMLA), 2023
+
 - ***"Understanding and Analyzing COVID-19-related Online Hate Propagation Through Hateful Memes Shared on Twitter".***  
 Nishant Vishwamitra\*, <u>Keyan Guo</u>\*, Liao Song, Jaden Mu, Zheyuan Ma, Long Cheng, Ziming Zhao, Hongxin Hu.   
  In IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2023
