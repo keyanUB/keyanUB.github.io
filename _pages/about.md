@@ -11,7 +11,7 @@ I'm a 4th-year Ph.D. candidate at University at Buffalo, SUNY. I'm interested in
 I welcome collaboration and would love to discuss any intriguing subjects. Don’t hesitate to reach out to me at [email](keyanguo@buffalo.edu). I’m eager to learn from you.
 
 
-<span style="color:red">***I'm looking for research internships this year and a full-time position in 2026. Sincerely appreciate your support!***</span>
+<span style="color:red">***I'm looking for research internships in 2026. Sincerely appreciate your support!***</span>
 
 
 News
