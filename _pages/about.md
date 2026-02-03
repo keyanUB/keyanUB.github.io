@@ -16,8 +16,9 @@ I welcome collaboration and would love to discuss any intriguing subjects. Don�
 
 News
 ======
-<span style="color:green">\[Paper\]</span> 09/2025: Our recent research on automatic hate video detection has been accepted by **<span style="color:red">EMNLP 2025</span>**!
+<span style="color:green">\[Paper\]</span> 01/2026: Our work *Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent–Child Perspectives of Risks in User-Generated Content* has been accepted by **<span style="color:red">CHI 2026</span>**!
 
+<span style="color:green">\[Paper\]</span> 09/2025: Our recent research on automatic hate video detection has been accepted by **<span style="color:red">EMNLP 2025</span>**!
 
 <span style="color:orange">\[Service\]</span> 07/2025: I am happy to serve as an AEC member in NDSS 2026.
 
