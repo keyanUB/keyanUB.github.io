@@ -137,8 +137,14 @@
 
   .btn--light-outline {
     border: 1px solid rgba(16, 42, 67, 0.25);
-    color: var(--accent-ink);
+    color: var(--accent-ink) !important;
     background: rgba(255, 255, 255, 0.72);
+
+    &:hover {
+      color: #fff !important;
+      border-color: var(--accent-blue);
+      background: var(--accent-blue);
+    }
   }
 
   .home-grid {
