@@ -9,7 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Thanks for your interest! 
-A PDF copy of my CV is available [here](../files/Keyan_CV.pdf).
-And my Resume can be found [here](../files/Resume_KeyanGuo.pdf).
-<!-- <embed src="../files/Keyan_CV.pdf" width="600" height="700" type='application/pdf'> -->
+<div class="cv-page">
+  <p>
+    A PDF copy of my CV is available <a href="../files/Keyan_CV.pdf">here</a>.
+    My resume is available <a href="../files/Resume_KeyanGuo.pdf">here</a>.
+  </p>
+
+  <div class="cv-preview">
+    <div class="cv-preview__header">
+      <h2>CV Preview</h2>
+      <a class="btn btn--primary" href="../files/Keyan_CV.pdf">Open PDF</a>
+    </div>
+
+    <object
+      class="cv-preview__frame"
+      data="../files/Keyan_CV.pdf"
+      type="application/pdf"
+    >
+      <p>
+        Your browser cannot display the embedded PDF.
+        Open it directly <a href="../files/Keyan_CV.pdf">here</a>.
+      </p>
+    </object>
+  </div>
+</div>
