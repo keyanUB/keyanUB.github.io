@@ -8,8 +8,13 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en)  
 \* indicates equal contribution
 
+- ***"Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent–Child Perspectives of Risks in User-Generated Content Games".***
+  Ruchi Panchanadikar, Yang Hu\*, <u>Keyan Guo</u>\*, Amelia L Hall, Hongxin Hu, Nishant Vishwamitra, Guo Freeman
+  Accepted by the **ACM CHI conference on Human Factors in Computing Systems (CHI)**, 2026
+
 - ***"HVGuard: Utilizing Multimodal Large Language Models for Hateful Video Detection".*** 
-  Accepted for presentation at the Main Conference in the Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, 2025
+  Yiheng Jing, Mingming Zhang, Yong Zhuang, Jiacheng Guo, Juan Wang, Xiaoyang Xu, Wenzhe Yi, <u>Keyan Guo</u>, Hongxin Hu
+  In the **Conference on Empirical Methods in Natural Language Processing (EMNLP)**, 2025
 
 - ***"JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation".***  
   Shenyi Zhang, Yuchen Zhai, <u>Keyan Guo</u>, Hongxin Hu, Shengnan Guo, Zheng Fang, Lingchen Zhao, Chao Shen, Cong Wang, Qian Wang.
