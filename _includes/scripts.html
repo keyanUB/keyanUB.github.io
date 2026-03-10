@@ -1,4 +1,80 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function() {
+    var root = document.documentElement;
+    var mediaQuery = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+
+    function getPreferredTheme() {
+      try {
+        return localStorage.getItem("theme");
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function setStoredTheme(theme) {
+      try {
+        localStorage.setItem("theme", theme);
+      } catch (error) {
+        // Ignore storage failures and keep the current theme for this session.
+      }
+    }
+
+    function applyTheme(theme) {
+      root.setAttribute("data-theme", theme);
+      root.style.colorScheme = theme;
+
+      var toggle = document.getElementById("theme-toggle");
+      if (!toggle) {
+        return;
+      }
+
+      var nextTheme = theme === "dark" ? "light" : "dark";
+      var label = nextTheme === "dark" ? "Dark mode" : "Light mode";
+      var labelNode = toggle.querySelector(".theme-toggle__label");
+
+      toggle.setAttribute("aria-label", "Switch to " + nextTheme + " mode");
+      toggle.setAttribute("aria-pressed", String(theme === "dark"));
+
+      if (labelNode) {
+        labelNode.textContent = label;
+      }
+    }
+
+    function resolveTheme() {
+      return getPreferredTheme() || (mediaQuery && mediaQuery.matches ? "dark" : "light");
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+      var toggle = document.getElementById("theme-toggle");
+      applyTheme(resolveTheme());
+
+      if (toggle) {
+        toggle.addEventListener("click", function() {
+          var currentTheme = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
+          var nextTheme = currentTheme === "dark" ? "light" : "dark";
+          setStoredTheme(nextTheme);
+          applyTheme(nextTheme);
+        });
+      }
+    });
+
+    function handleSystemThemeChange(event) {
+      if (getPreferredTheme()) {
+        return;
+      }
+
+      applyTheme(event.matches ? "dark" : "light");
+    }
+
+    if (mediaQuery && mediaQuery.addEventListener) {
+      mediaQuery.addEventListener("change", handleSystemThemeChange);
+    } else if (mediaQuery && mediaQuery.addListener) {
+      mediaQuery.addListener(handleSystemThemeChange);
+    }
+  })();
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

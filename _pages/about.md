@@ -17,9 +17,9 @@ redirect_from:
     with a focus on making large-scale AI systems more trustworthy in deployment.
   </p>
   <div class="home-hero__actions">
-    <a class="btn btn--primary" href="/publications/">View Publications</a>
-    <a class="btn btn--inverse" href="/cv/">Read CV</a>
-    <a class="btn btn--light-outline" href="mailto:keyanguo@buffalo.edu">Contact Me</a>
+    <a class="btn home-hero__button home-hero__button--secondary" href="/publications/">View Publications</a>
+    <a class="btn home-hero__button home-hero__button--secondary" href="/cv/">Read CV</a>
+    <a class="btn home-hero__button home-hero__button--primary" href="mailto:keyanguo@buffalo.edu">Contact Me</a>
   </div>
   <p class="home-hero__note">
     I welcome research collaboration and I am actively looking for research internships in 2026.
