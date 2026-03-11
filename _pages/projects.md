@@ -17,7 +17,7 @@ author_profile: true
   <article class="projects-track-map__card projects-track-map__card--ai-security">
     <p class="projects-track-map__label">Track 01</p>
     <h3>AI Security</h3>
-    <p>Defending models, guiding secure code generation, and designing stronger safety mechanisms for AI systems.</p>
+    <p>Defending models, measuring robustness, guiding secure code generation, and designing stronger safety mechanisms for AI systems.</p>
   </article>
   <article class="projects-track-map__card projects-track-map__card--ai-for-security">
     <p class="projects-track-map__label">Track 02</p>
@@ -27,7 +27,7 @@ author_profile: true
   <article class="projects-track-map__card projects-track-map__card--investigations">
     <p class="projects-track-map__label">Track 03</p>
     <h3>Related Studies</h3>
-    <p>Studies that measure robustness, probe model behavior, and examine how users perceive risk in security-relevant settings.</p>
+    <p>Studies that probe model behavior and examine how users perceive risk in security-relevant settings.</p>
   </article>
 </section>
 
@@ -35,7 +35,7 @@ author_profile: true
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 01</p>
     <h2>AI Security</h2>
-    <p>Research on defending AI systems, guiding secure code generation, and rethinking safety policy where AI and platform governance increasingly intersect.</p>
+    <p>Research on defending AI systems, measuring robustness, guiding secure code generation, and rethinking safety policy where AI and platform governance increasingly intersect.</p>
   </div>
 
   <div class="project-showcase-list">
@@ -77,6 +77,27 @@ author_profile: true
         </p>
         <div class="project-showcase__actions">
           <a class="btn project-showcase__button" href="/files/papers/SCPGraph.pdf">Read Paper</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>MultimodelRobustness</h3>
+        <p class="project-showcase__tag">SKM 2023</p>
+      </div>
+      <figure class="project-showcase__media">
+        <img src="/images/papers/MMRobustness.png" alt="Figure from the MultimodelRobustness paper on robustness of vision-language multimodal models." />
+      </figure>
+      <div class="project-showcase__content">
+        <p>
+          This paper studies how vision-language multimodal models behave under robustness stress, focusing on how brittle cross-modal systems can become when their inputs or assumptions shift. It examines the reliability limits of multimodal models before they are relied on in downstream security workflows.
+        </p>
+        <p>
+          The project is foundational because it surfaces where multimodal systems fail before they are deployed in safety-critical or security-sensitive settings. It also provides an early bridge to later work on multimodal moderation and trustworthy AI behavior.
+        </p>
+        <div class="project-showcase__actions">
+          <a class="btn project-showcase__button" href="/files/papers/MultimodelRobustness.pdf">Read Paper</a>
         </div>
       </div>
     </article>
@@ -181,7 +202,7 @@ author_profile: true
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 03</p>
     <h2>Related Studies</h2>
-    <p>Studies that evaluate system robustness, analyze model behavior, and examine human risk perception without fitting neatly into either of the two primary application tracks.</p>
+    <p>Studies that analyze model behavior and examine human risk perception without fitting neatly into either of the two primary application tracks.</p>
   </div>
 
   <div class="project-showcase-list">
@@ -223,27 +244,6 @@ author_profile: true
         </p>
         <div class="project-showcase__actions">
           <a class="btn project-showcase__button" href="/files/papers/LLM4HateSpeech.pdf">Read Paper</a>
-        </div>
-      </div>
-    </article>
-
-    <article class="project-showcase">
-      <div class="project-showcase__header-block">
-        <h3>MultimodelRobustness</h3>
-        <p class="project-showcase__tag">SKM 2023</p>
-      </div>
-      <figure class="project-showcase__media">
-        <img src="/images/papers/MMRobustness.png" alt="Figure from the MultimodelRobustness paper on robustness of vision-language multimodal models." />
-      </figure>
-      <div class="project-showcase__content">
-        <p>
-          This paper studies how vision-language multimodal models behave under robustness stress, focusing on how brittle cross-modal systems can become when their inputs or assumptions shift. It examines the reliability limits of multimodal models before they are relied on in downstream security workflows.
-        </p>
-        <p>
-          The project is foundational because it surfaces where multimodal systems fail before they are deployed in safety-critical or security-sensitive settings. It also provides an early bridge to later work on multimodal moderation and trustworthy AI behavior.
-        </p>
-        <div class="project-showcase__actions">
-          <a class="btn project-showcase__button" href="/files/papers/MultimodelRobustness.pdf">Read Paper</a>
         </div>
       </div>
     </article>
