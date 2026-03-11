@@ -7,17 +7,30 @@ author_profile: true
 
 <div class="projects-hero">
   <p class="projects-hero__eyebrow">Selected Paper Showcases</p>
-  <h2 class="projects-hero__headline">Research projects across AI security and AI-enabled security applications.</h2>
+  <h2 class="projects-hero__headline">My research spans two closely related directions: AI Security and AI for Security.</h2>
   <p class="projects-hero__summary">
-    This page highlights representative papers from my recent work. Each project block includes a paper visual and a short overview of the problem setting, core idea, and practical security relevance.
+    One track asks how we secure AI systems themselves. The other asks how modern AI can be used to protect people, platforms, and online ecosystems. Together, these projects trace a connected agenda around safer intelligent systems and safer digital environments.
   </p>
 </div>
+
+<section class="projects-track-map">
+  <article class="projects-track-map__card projects-track-map__card--ai-security">
+    <p class="projects-track-map__label">Track 01</p>
+    <h3>AI Security</h3>
+    <p>Defending models, guiding secure code generation, and designing stronger safety mechanisms for AI systems.</p>
+  </article>
+  <article class="projects-track-map__card projects-track-map__card--ai-for-security">
+    <p class="projects-track-map__label">Track 02</p>
+    <h3>AI for Security</h3>
+    <p>Using multimodal and language models to detect abuse, moderate harmful content, and improve online safety operations.</p>
+  </article>
+</section>
 
 <section class="projects-section projects-section--ai-security">
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 01</p>
     <h2>AI Security</h2>
-    <p>Research on defending AI systems, guiding secure code generation, and rethinking safety policy around creator-driven online platforms.</p>
+    <p>Research on defending AI systems, guiding secure code generation, and rethinking safety policy where AI and platform governance increasingly intersect.</p>
   </div>
 
   <div class="project-showcase-list">
@@ -84,7 +97,7 @@ author_profile: true
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 02</p>
     <h2>AI for Security</h2>
-    <p>Projects that use multimodal LLMs and vision-language models to moderate harmful content, unsafe game ecosystems, and evolving online abuse.</p>
+    <p>Projects that deploy multimodal LLMs and vision-language models to moderate harmful content, unsafe game ecosystems, and rapidly evolving online abuse.</p>
   </div>
 
   <div class="project-showcase-list">
