@@ -13,7 +13,7 @@ author_profile: true
   </p>
 </div>
 
-<section class="projects-section">
+<section class="projects-section projects-section--ai-security">
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 01</p>
     <h2>AI Security</h2>
@@ -80,7 +80,7 @@ author_profile: true
   </div>
 </section>
 
-<section class="projects-section">
+<section class="projects-section projects-section--ai-for-security">
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 02</p>
     <h2>AI for Security</h2>
