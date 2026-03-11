@@ -63,7 +63,7 @@ author_profile: true
     <article class="project-showcase">
       <div class="project-showcase__header-block">
         <h3>SCPGraph</h3>
-        <p class="project-showcase__tag">arXiv 2025</p>
+        <p class="project-showcase__tag">On Submission</p>
       </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/scpgraph-framework.png" alt="GRASP overview figure from the SCPGraph paper." />
