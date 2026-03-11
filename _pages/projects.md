@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
@@ -26,12 +26,15 @@ author_profile: true
   </article>
 </section>
 
+---
+
 <section class="projects-section projects-section--ai-security">
   <div class="projects-section__header">
     <p class="projects-section__eyebrow">Track 01</p>
     <h2>AI Security</h2>
     <p>Research on defending AI systems, guiding secure code generation, and rethinking safety policy where AI and platform governance increasingly intersect.</p>
   </div>
+
 
   <div class="project-showcase-list">
     <article class="project-showcase">
@@ -98,6 +101,8 @@ author_profile: true
     </article>
   </div>
 </section>
+
+---
 
 <section class="projects-section projects-section--ai-for-security">
   <div class="projects-section__header">
