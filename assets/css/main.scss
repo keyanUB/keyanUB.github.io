@@ -319,7 +319,7 @@
 
   .projects-track-map {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1rem;
     margin: 0 0 2rem;
   }
@@ -350,6 +350,10 @@
     border-top: 4px solid rgba(47, 133, 90, 0.7);
   }
 
+  .projects-track-map__card--investigations {
+    border-top: 4px solid rgba(31, 95, 139, 0.7);
+  }
+
   .projects-track-map__label {
     margin: 0 0 0.55rem;
     color: var(--accent-teal);
@@ -375,6 +379,10 @@
 
   .projects-section--ai-for-security {
     border-top: 5px solid rgba(47, 133, 90, 0.65);
+  }
+
+  .projects-section--investigations {
+    border-top: 5px solid rgba(31, 95, 139, 0.65);
   }
 
   .projects-section__header {
@@ -435,6 +443,10 @@
     border-top: 4px solid rgba(47, 133, 90, 0.4);
   }
 
+  .projects-section--investigations .project-showcase {
+    border-top: 4px solid rgba(31, 95, 139, 0.4);
+  }
+
   .project-showcase__header-block {
     display: flex;
     flex-wrap: wrap;
@@ -465,6 +477,29 @@
     width: 100%;
     height: 100%;
     object-fit: contain;
+  }
+
+  .project-showcase__media--placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+  }
+
+  .project-showcase__placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 1.25rem;
+    border: 1px dashed rgba(31, 95, 139, 0.28);
+    border-radius: 0.7rem;
+    background: rgba(31, 95, 139, 0.04);
+    color: var(--accent-ink);
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.5;
   }
 
   .project-showcase__content {

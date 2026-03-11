@@ -9,7 +9,7 @@ author_profile: true
   <p class="projects-hero__eyebrow">Selected Paper Showcases</p>
   <h2 class="projects-hero__headline">My research spans two closely related directions: AI Security and AI for Security.</h2>
   <p class="projects-hero__summary">
-    One track asks how we secure AI systems themselves. The other asks how modern AI can be used to protect people, platforms, and online ecosystems. Together, these projects trace a connected agenda around safer intelligent systems and safer digital environments.
+    One track asks how we secure AI systems themselves. The other asks how modern AI can be used to protect people, platforms, and online ecosystems. A third stream focuses on understanding limits, measuring behavior, and evaluating risks across adjacent security settings.
   </p>
 </div>
 
@@ -24,9 +24,12 @@ author_profile: true
     <h3>AI for Security</h3>
     <p>Using multimodal and language models to detect abuse, moderate harmful content, and improve online safety operations.</p>
   </article>
+  <article class="projects-track-map__card projects-track-map__card--investigations">
+    <p class="projects-track-map__label">Track 03</p>
+    <h3>Related Studies</h3>
+    <p>Studies that measure robustness, probe model behavior, and examine how users perceive risk in security-relevant settings.</p>
+  </article>
 </section>
-
----
 
 <section class="projects-section projects-section--ai-security">
   <div class="projects-section__header">
@@ -34,7 +37,6 @@ author_profile: true
     <h2>AI Security</h2>
     <p>Research on defending AI systems, guiding secure code generation, and rethinking safety policy where AI and platform governance increasingly intersect.</p>
   </div>
-
 
   <div class="project-showcase-list">
     <article class="project-showcase">
@@ -78,31 +80,8 @@ author_profile: true
         </div>
       </div>
     </article>
-
-    <article class="project-showcase">
-      <div class="project-showcase__header-block">
-        <h3>Beyond Age-Based Restrictions</h3>
-        <p class="project-showcase__tag">CHI 2026</p>
-      </div>
-      <figure class="project-showcase__media">
-        <img src="/images/papers/rethinking-ugcg-figure.png" alt="Key risk-distribution figure from the RethinkingUGCG paper." />
-      </figure>
-      <div class="project-showcase__content">
-        <p>
-          This project examines children's online safety in user-generated content games by comparing how parents and children perceive risk. Rather than assuming age gates alone are enough, the study highlights the gap between adult oversight models and the types of content, interaction, and social exposure children actually encounter inside creator-driven game ecosystems.
-        </p>
-        <p>
-          The paper argues for safety interventions that are more context-aware and experience-driven than blanket age-based restrictions. It connects platform design, moderation policy, and lived user behavior in a way that is directly relevant to safer online game environments.
-        </p>
-        <div class="project-showcase__actions">
-          <a class="btn project-showcase__button" href="/files/papers/RethinkingUGCG.pdf">Read Paper</a>
-        </div>
-      </div>
-    </article>
   </div>
 </section>
-
----
 
 <section class="projects-section projects-section--ai-for-security">
   <div class="projects-section__header">
@@ -195,6 +174,37 @@ author_profile: true
         </div>
       </div>
     </article>
+  </div>
+</section>
+
+<section class="projects-section projects-section--investigations">
+  <div class="projects-section__header">
+    <p class="projects-section__eyebrow">Track 03</p>
+    <h2>Related Studies</h2>
+    <p>Studies that evaluate system robustness, analyze model behavior, and examine human risk perception without fitting neatly into either of the two primary application tracks.</p>
+  </div>
+
+  <div class="project-showcase-list">
+    <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>Beyond Age-Based Restrictions</h3>
+        <p class="project-showcase__tag">CHI 2026</p>
+      </div>
+      <figure class="project-showcase__media">
+        <img src="/images/papers/rethinking-ugcg-figure.png" alt="Key risk-distribution figure from the RethinkingUGCG paper." />
+      </figure>
+      <div class="project-showcase__content">
+        <p>
+          This project examines children's online safety in user-generated content games by comparing how parents and children perceive risk. Rather than assuming age gates alone are enough, the study highlights the gap between adult oversight models and the types of content, interaction, and social exposure children actually encounter inside creator-driven game ecosystems.
+        </p>
+        <p>
+          The paper argues for safety interventions that are more context-aware and experience-driven than blanket age-based restrictions. It connects platform design, moderation policy, and lived user behavior in a way that is directly relevant to safer online game environments.
+        </p>
+        <div class="project-showcase__actions">
+          <a class="btn project-showcase__button" href="/files/papers/RethinkingUGCG.pdf">Read Paper</a>
+        </div>
+      </div>
+    </article>
 
     <article class="project-showcase">
       <div class="project-showcase__header-block">
@@ -213,6 +223,27 @@ author_profile: true
         </p>
         <div class="project-showcase__actions">
           <a class="btn project-showcase__button" href="/files/papers/LLM4HateSpeech.pdf">Read Paper</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>MultimodelRobustness</h3>
+        <p class="project-showcase__tag">SKM 2023</p>
+      </div>
+      <figure class="project-showcase__media">
+        <img src="/images/papers/MMRobustness.png" alt="Figure from the MultimodelRobustness paper on robustness of vision-language multimodal models." />
+      </figure>
+      <div class="project-showcase__content">
+        <p>
+          This paper studies how vision-language multimodal models behave under robustness stress, focusing on how brittle cross-modal systems can become when their inputs or assumptions shift. It examines the reliability limits of multimodal models before they are relied on in downstream security workflows.
+        </p>
+        <p>
+          The project is foundational because it surfaces where multimodal systems fail before they are deployed in safety-critical or security-sensitive settings. It also provides an early bridge to later work on multimodal moderation and trustworthy AI behavior.
+        </p>
+        <div class="project-showcase__actions">
+          <a class="btn project-showcase__button" href="/files/papers/MultimodelRobustness.pdf">Read Paper</a>
         </div>
       </div>
     </article>
