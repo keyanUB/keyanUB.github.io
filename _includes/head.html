@@ -15,26 +15,6 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<script>
-  (function() {
-    var storedTheme = null;
-
-    try {
-      storedTheme = localStorage.getItem("theme");
-    } catch (error) {
-      storedTheme = null;
-    }
-
-    var systemTheme = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
-      ? "dark"
-      : "light";
-    var theme = storedTheme || systemTheme;
-
-    document.documentElement.setAttribute("data-theme", theme);
-    document.documentElement.style.colorScheme = theme;
-  })();
-</script>
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
