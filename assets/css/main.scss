@@ -412,11 +412,12 @@
 
   .project-showcase {
     display: grid;
-    grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
-    gap: 1.25rem;
+    grid-template-columns: 1fr;
+    gap: 1rem;
     align-items: stretch;
+    position: relative;
     padding: 1.45rem;
-    border: 1px solid rgba(15, 23, 42, 0.07);
+    border: 1px solid rgba(15, 23, 42, 0.12);
     border-radius: 1.45rem;
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.99) 0%, rgba(248, 250, 252, 0.96) 100%);
@@ -433,17 +434,41 @@
     }
   }
 
+  .project-showcase::before {
+    content: "";
+    position: absolute;
+    inset: 0.55rem;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 1.05rem;
+    pointer-events: none;
+  }
+
   .projects-section--ai-security .project-showcase {
-    border-color: rgba(193, 65, 65, 0.12);
+    border-color: rgba(193, 65, 65, 0.18);
   }
 
   .projects-section--ai-for-security .project-showcase {
-    border-color: rgba(47, 133, 90, 0.12);
+    border-color: rgba(47, 133, 90, 0.18);
+  }
+
+  .project-showcase__header-block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.65rem 1rem;
+    padding-bottom: 0.15rem;
+  }
+
+  .project-showcase__header-block h3 {
+    margin: 0;
+    color: var(--accent-ink);
+    font-size: 1.4rem;
   }
 
   .project-showcase__media {
     margin: 0;
-    min-height: 270px;
+    min-height: 290px;
     overflow: hidden;
     border: 1px solid rgba(15, 23, 42, 0.08);
     border-radius: 1.05rem;
@@ -463,12 +488,6 @@
     flex-direction: column;
   }
 
-  .project-showcase__content h3 {
-    margin: 0 0 0.75rem;
-    color: var(--accent-ink);
-    font-size: 1.4rem;
-  }
-
   .project-showcase__content p {
     margin-top: 0;
   }
@@ -477,6 +496,7 @@
     color: var(--accent-blue);
     display: inline-flex;
     align-self: flex-start;
+    margin: 0;
     padding: 0.28rem 0.65rem;
     border-radius: 999px;
     background: rgba(49, 130, 206, 0.1);
@@ -649,10 +669,6 @@ pre,
     }
 
     .projects-track-map {
-      grid-template-columns: 1fr;
-    }
-
-    .project-showcase {
       grid-template-columns: 1fr;
     }
   }

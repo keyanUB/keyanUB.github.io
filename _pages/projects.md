@@ -35,12 +35,14 @@ author_profile: true
 
   <div class="project-showcase-list">
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>JBShield</h3>
+        <p class="project-showcase__tag">USENIX Security 2025</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/jbshield-framework.png" alt="JBShield framework figure showing jailbreak detection and mitigation." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">USENIX Security 2025</p>
-        <h3>JBShield</h3>
         <p>
           JBShield defends aligned large language models against jailbreak attacks by inspecting what happens inside the model rather than relying only on surface-level prompt filters. The framework identifies toxic and jailbreak-related concepts in hidden activations, then intervenes on those concepts to preserve the model's refusal behavior under adversarial prompting.
         </p>
@@ -54,12 +56,14 @@ author_profile: true
     </article>
 
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>SCPGraph</h3>
+        <p class="project-showcase__tag">arXiv 2025</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/scpgraph-framework.png" alt="GRASP overview figure from the SCPGraph paper." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">arXiv 2025</p>
-        <h3>SCPGraph</h3>
         <p>
           SCPGraph addresses a different security challenge: LLMs that generate functional but insecure code. The project encodes secure coding practices as graph structures and uses those graphs to guide LLM reasoning during code generation, grounding the model in concrete security constraints instead of vague instructions to "write safe code."
         </p>
@@ -73,12 +77,14 @@ author_profile: true
     </article>
 
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>Beyond Age-Based Restrictions</h3>
+        <p class="project-showcase__tag">CHI 2026</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/rethinking-ugcg-figure.png" alt="Key risk-distribution figure from the RethinkingUGCG paper." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">CHI 2026</p>
-        <h3>Beyond Age-Based Restrictions</h3>
         <p>
           This project examines children's online safety in user-generated content games by comparing how parents and children perceive risk. Rather than assuming age gates alone are enough, the study highlights the gap between adult oversight models and the types of content, interaction, and social exposure children actually encounter inside creator-driven game ecosystems.
         </p>
@@ -102,12 +108,14 @@ author_profile: true
 
   <div class="project-showcase-list">
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>HVGuard</h3>
+        <p class="project-showcase__tag">EMNLP 2025</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/hvguard-framework.png" alt="HVGuard framework figure showing multimodal reasoning and mixture-of-experts fusion." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">EMNLP 2025</p>
-        <h3>HVGuard</h3>
         <p>
           HVGuard studies hateful video moderation, where harm is often conveyed jointly through speech, visuals, sarcasm, and pacing instead of a single explicit cue. The system combines transcripts and video frames in a multimodal LLM pipeline so the model can reason over cross-modal evidence rather than treating a clip as isolated text or isolated imagery.
         </p>
@@ -121,12 +129,14 @@ author_profile: true
     </article>
 
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>HMGuard</h3>
+        <p class="project-showcase__tag">NDSS 2025</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/hmguard-framework.png" alt="HMGuard overview figure showing challenge identification, prompt design, and harmful meme detection." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">NDSS 2025</p>
-        <h3>HMGuard</h3>
         <p>
           HMGuard focuses on harmful memes, a moderation problem where a small amount of text and imagery can hide hateful, harassing, or propagandistic intent. The framework uses multimodal large language models to reason about the relationship between the image, the overlaid text, and the broader social meaning conveyed by the meme.
         </p>
@@ -140,12 +150,14 @@ author_profile: true
     </article>
 
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>UGCG-Guard</h3>
+        <p class="project-showcase__tag">USENIX Security 2024</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/ugcg-framework.png" alt="UGCG-Guard overview figure showing data collection, prompting, VLM detection, and moderation." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">USENIX Security 2024</p>
-        <h3>UGCG-Guard</h3>
         <p>
           UGCG-Guard targets promotional content used to lure users into unsafe user-generated content games. The system screens social posts, screenshots, and game-related imagery with large vision-language models to detect sexualized, exploitative, or otherwise illicit promotion before it spreads across the platform ecosystem.
         </p>
@@ -159,12 +171,14 @@ author_profile: true
     </article>
 
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>NewWave</h3>
+        <p class="project-showcase__tag">IEEE S&amp;P 2024</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/newwave-framework.png" alt="HateGuard overview figure from the NewWave paper." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">IEEE S&amp;P 2024</p>
-        <h3>NewWave</h3>
         <p>
           NewWave studies hate speech that surges around breaking events, where static moderation policies and older classifiers quickly go stale. The paper introduces an LLM-based reasoning framework that captures the narratives, slogans, and contextual references tied to newly emerging hate waves triggered by real-world events.
         </p>
@@ -178,12 +192,14 @@ author_profile: true
     </article>
 
     <article class="project-showcase">
+      <div class="project-showcase__header-block">
+        <h3>LLM4HateSpeech</h3>
+        <p class="project-showcase__tag">ICMLA 2023</p>
+      </div>
       <figure class="project-showcase__media">
         <img src="/images/papers/llm4hatespeech-figure.png" alt="Prompting strategy and results figure from the LLM4HateSpeech paper." />
       </figure>
       <div class="project-showcase__content">
-        <p class="project-showcase__tag">ICMLA 2023</p>
-        <h3>LLM4HateSpeech</h3>
         <p>
           LLM4HateSpeech examines whether large language models can reliably detect hate speech in realistic, context-heavy settings. The work compares prompt strategies and studies how contextual clues, task framing, and external knowledge affect LLM judgments on subtle or ambiguous hateful language.
         </p>
