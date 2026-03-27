@@ -65,7 +65,7 @@
   --theme-footer-bg: #f3f6f9;
 }
 
-.page__content {
+.archive {
   .cv-page {
     margin-top: 0.5rem;
   }
@@ -109,7 +109,9 @@
     flex-wrap: wrap;
     gap: 0.5rem;
   }
+}
 
+.page__content {
   .home-hero {
     margin: 0 0 2rem;
     padding: 2rem;
@@ -1091,13 +1093,13 @@ pre,
 }
 
 @media (max-width: 900px) {
-  .page__content {
-    .cv-preview__header {
-      align-items: flex-start;
-      flex-direction: column;
-    }
+  .archive .cv-preview__header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
 
-.home-grid {
+  .page__content {
+    .home-grid {
       grid-template-columns: 1fr;
     }
 
