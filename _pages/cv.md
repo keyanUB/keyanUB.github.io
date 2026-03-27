@@ -18,10 +18,10 @@ redirect_from:
   <div class="cv-preview">
     <div class="cv-preview__header">
       <h2>Resume Preview</h2>
-      <div class="cv-preview__actions">
+      <!-- <div class="cv-preview__actions">
         <a class="btn btn--primary" href="{{ base_path }}/files/Keyan_Resume2026.pdf">Download Resume</a>
         <a class="btn btn--inverse" href="{{ base_path }}/files/Keyan_CV.pdf">Download CV</a>
-      </div>
+      </div> -->
     </div>
 
     <iframe
