@@ -71,6 +71,7 @@
   }
 
   .cv-preview {
+    width: 100%;
     margin-top: 1.5rem;
     border: 1px solid var(--border-soft);
     border-radius: 1rem;
@@ -98,7 +99,7 @@
   .cv-preview__frame {
     display: block;
     width: 100%;
-    height: 1300px;
+    aspect-ratio: 8.5 / 11.4;
     border: 0;
     background: #fff;
   }
@@ -1096,11 +1097,7 @@ pre,
       flex-direction: column;
     }
 
-    .cv-preview__frame {
-      height: 1100px;
-    }
-
-    .home-grid {
+.home-grid {
       grid-template-columns: 1fr;
     }
 
