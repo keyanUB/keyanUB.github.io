@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-hero">
+<nav class="page-nav" aria-label="Page sections">
+  <a class="page-nav__link" href="#about">About</a>
+  <a class="page-nav__link" href="#research">Research</a>
+  <a class="page-nav__link" href="#recent-news">News</a>
+  <a class="page-nav__link" href="#collaborators">Collaborators</a>
+  <a class="page-nav__link" href="#site-visitors">Visitors</a>
+</nav>
+
+<div class="home-hero" id="about">
   <p class="home-hero__eyebrow">AI Security Researcher</p>
   <h2 class="home-hero__headline">Building safer generative AI systems against real-world threats.</h2>
   <p class="home-hero__summary">
@@ -26,7 +34,7 @@ redirect_from:
   </p>
 </div>
 
-<div class="home-grid">
+<div class="home-grid" id="research">
   <section class="home-card">
     <h2>Research Focus</h2>
     <ul class="home-list">
@@ -113,3 +121,37 @@ Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), Dr. [Ziming Zhao](https://
 Alexander Hu (now at UCLA), David Cong (now at Duke University), Helen Qin, Ishan Ajay, Jaden Mu (now at Carnegie Mellon University), Johnson Chen, Wentai Zhao (now at the University of Michigan)
 
 <p class="home-footnote">Sorted alphabetically by first name.</p>
+
+## Site Visitors
+
+<div class="site-stats">
+  <iframe
+    class="site-stats__chart"
+    src="https://lookerstudio.google.com/embed/reporting/72d64428-18eb-4844-847c-f5d986af9307/page/bzQtF"
+    frameborder="0"
+    style="border:0"
+    allowfullscreen
+    sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+  ></iframe>
+</div>
+
+<script>
+(function () {
+  var links = document.querySelectorAll('.page-nav__link');
+  var sections = Array.from(links).map(function (l) {
+    return document.querySelector(l.getAttribute('href'));
+  });
+
+  var observer = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        links.forEach(function (l) { l.classList.remove('is-active'); });
+        var active = document.querySelector('.page-nav__link[href="#' + entry.target.id + '"]');
+        if (active) active.classList.add('is-active');
+      }
+    });
+  }, { rootMargin: '-10% 0px -80% 0px' });
+
+  sections.forEach(function (s) { if (s) observer.observe(s); });
+})();
+</script>

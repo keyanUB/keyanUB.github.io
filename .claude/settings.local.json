@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"layout:\" /c/Users/garet/Downloads/hatespeech_llm/keyanUB.github.io/_pages/*.md)",
+      "Bash(grep -h \"^layout:\" /c/Users/garet/Downloads/hatespeech_llm/keyanUB.github.io/_pages/*.md)"
+    ]
+  }
+}

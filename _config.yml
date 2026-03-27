@@ -71,9 +71,9 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
+# Analytics (GA4 tag added manually in _includes/head/custom.html)
 analytics:
-  provider               : "google-universal"
+  provider               : false
   google:
     tracking_id          : "G-ZJJW1CL9SK"
 
