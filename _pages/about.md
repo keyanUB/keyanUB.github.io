@@ -30,7 +30,7 @@ redirect_from:
     <a class="btn home-hero__button home-hero__button--primary" href="mailto:keyanguo@buffalo.edu">Contact Me</a>
   </div>
   <p class="home-hero__note">
-    I welcome research collaboration and I am actively looking for research internships in 2026.
+    I welcome research collaboration in various area, such as AI/ML, Cybersecurity, HCI, Social Science, etc.
   </p>
 </div>
 
