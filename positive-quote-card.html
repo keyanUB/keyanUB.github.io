@@ -43,11 +43,13 @@
       {text:"The future depends on what you do today.",source:"Mahatma Gandhi",language:"en",translation:"\u672a\u6765\u53d6\u51b3\u4e8e\u4f60\u4eca\u5929\u505a\u4ec0\u4e48\u3002"}
     ];
     const $=id=>document.getElementById(id),history=[];let cursor=-1;
+    function todayIndex(){const d=new Date(),key=`${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()}`;let n=0;for(const ch of key)n=(n*31+ch.charCodeAt(0))|0;return Math.abs(n)%quotes.length}
     function pick(except){let i=Math.floor(Math.random()*quotes.length);while(quotes.length>1&&i===except)i=Math.floor(Math.random()*quotes.length);return i}
     function render(i){const q=quotes[i];$("quote").textContent=q.text;$("source").textContent="- "+q.source;$("translation").textContent=q.translation;$("label").textContent=q.language==="zh"?"English translation":"\u4e2d\u6587\u7ffb\u8bd1";$("count").textContent=`${cursor+1} / ${history.length}`;$("prev").disabled=cursor<=0}
     function next(){history.splice(cursor+1);history.push(pick(history[cursor]));cursor=history.length-1;render(history[cursor])}
     function prev(){if(cursor>0){cursor--;render(history[cursor])}}
-    $("next").addEventListener("click",next);$("prev").addEventListener("click",prev);next();
+    function start(){history.push(todayIndex());cursor=0;render(history[cursor])}
+    $("next").addEventListener("click",next);$("prev").addEventListener("click",prev);start();
   </script>
 </body>
 </html>
