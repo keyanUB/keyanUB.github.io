@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Positive Quote Card</title>
+  <style>
+    :root{color-scheme:light dark;--bg:#f6f8fa;--card:#fff;--text:#1f2328;--muted:#656d76;--line:#d0d7de;--accent:#0969da;--soft:#ddf4ff}
+    @media (prefers-color-scheme:dark){:root{--bg:#0d1117;--card:#161b22;--text:#f0f6fc;--muted:#8b949e;--line:#30363d;--accent:#58a6ff;--soft:#0b2d48}}
+    *{box-sizing:border-box}body{min-height:100vh;margin:0;display:grid;place-items:center;padding:24px;background:radial-gradient(circle at top left,var(--soft),transparent 34rem),var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    main{width:min(760px,100%)}.card{border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 18px 48px rgba(31,35,40,.12);overflow:hidden}
+    .top,.actions{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 20px;border-bottom:1px solid var(--line)}.actions{border-top:1px solid var(--line);border-bottom:0;background:color-mix(in srgb,var(--bg) 45%,transparent)}
+    .eyebrow{margin:0;color:var(--muted);font-size:13px;font-weight:700;text-transform:uppercase}.count{border:1px solid var(--line);border-radius:999px;padding:5px 10px;color:var(--muted);font-size:13px}
+    .body{padding:28px}blockquote{margin:0;font-size:clamp(24px,4vw,38px);line-height:1.24;font-weight:760}.source{margin:18px 0 0;color:var(--muted);font-size:16px}
+    .translation{margin-top:22px;padding:16px;border:1px solid var(--line);border-radius:10px;background:color-mix(in srgb,var(--soft) 54%,transparent)}.label{margin:0 0 8px;color:var(--muted);font-size:13px;font-weight:700}.translation p:last-child{margin:0;font-size:18px;line-height:1.55}
+    button{min-height:42px;border:1px solid var(--line);border-radius:8px;padding:0 16px;background:var(--card);color:var(--text);font:inherit;font-weight:700;cursor:pointer}button:hover{border-color:var(--accent);color:var(--accent)}button:disabled{cursor:not-allowed;opacity:.48}.primary{background:var(--accent);border-color:var(--accent);color:white}.primary:hover{color:white}
+    @media (max-width:560px){body{padding:16px}.top,.actions{padding:14px}.body{padding:22px 18px}.actions{flex-direction:column-reverse}button{width:100%}}
+  </style>
+</head>
+<body>
+  <main>
+    <section class="card">
+      <div class="top"><p class="eyebrow">Positive Quote</p><span class="count" id="count">1 / 1</span></div>
+      <div class="body">
+        <blockquote id="quote"></blockquote>
+        <p class="source" id="source"></p>
+        <div class="translation"><p class="label" id="label">&#20013;&#25991;&#32763;&#35793;</p><p id="translation"></p></div>
+      </div>
+      <div class="actions"><button id="prev">&#19978;&#19968;&#26465;</button><button class="primary" id="next">&#19979;&#19968;&#26465;</button></div>
+    </section>
+  </main>
+  <script>
+    const quotes=[
+      {text:"It always seems impossible until it's done.",source:"Nelson Mandela",language:"en",translation:"\u5728\u5b8c\u6210\u4e4b\u524d\uff0c\u4e00\u5207\u770b\u8d77\u6765\u90fd\u50cf\u662f\u4e0d\u53ef\u80fd\u3002"},
+      {text:"The journey of a thousand miles begins with one step.",source:"Laozi, Tao Te Ching",language:"en",translation:"\u5343\u91cc\u4e4b\u884c\uff0c\u59cb\u4e8e\u8db3\u4e0b\u3002"},
+      {text:"What you do today can improve all your tomorrows.",source:"Ralph Marston",language:"en",translation:"\u4f60\u4eca\u5929\u505a\u7684\u4e8b\uff0c\u53ef\u4ee5\u6539\u5584\u6240\u6709\u7684\u660e\u5929\u3002"},
+      {text:"Act as if what you do makes a difference. It does.",source:"William James",language:"en",translation:"\u50cf\u4f60\u7684\u884c\u52a8\u771f\u7684\u4f1a\u5e26\u6765\u6539\u53d8\u90a3\u6837\u53bb\u884c\u52a8\u3002\u5b83\u786e\u5b9e\u4f1a\u3002"},
+      {text:"Knowing yourself is the beginning of all wisdom.",source:"Aristotle",language:"en",translation:"\u8ba4\u8bc6\u81ea\u5df1\uff0c\u662f\u4e00\u5207\u667a\u6167\u7684\u5f00\u59cb\u3002"},
+      {text:"\u8bfb\u4e66\u7834\u4e07\u5377\uff0c\u4e0b\u7b14\u5982\u6709\u795e\u3002",source:"\u675c\u752b\uff0c\u300a\u5949\u8d60\u97e6\u5de6\u4e1e\u4e08\u4e8c\u5341\u4e8c\u97f5\u300b",language:"zh",translation:"After reading thousands of books, writing comes as if guided by spirit."},
+      {text:"\u5929\u884c\u5065\uff0c\u541b\u5b50\u4ee5\u81ea\u5f3a\u4e0d\u606f\u3002",source:"\u300a\u5468\u6613\u300b",language:"zh",translation:"As heaven moves with strength, one should keep striving without rest."},
+      {text:"\u4e0d\u79ef\u8dec\u6b65\uff0c\u65e0\u4ee5\u81f3\u5343\u91cc\u3002",source:"\u8340\u5b50\uff0c\u300a\u529d\u5b66\u300b",language:"zh",translation:"Without small steps, there is no way to reach a thousand miles."},
+      {text:"Do not wait to strike till the iron is hot; make it hot by striking.",source:"William Butler Yeats",language:"en",translation:"\u4e0d\u8981\u7b49\u94c1\u70ed\u4e86\u624d\u9524\u6253\uff1b\u901a\u8fc7\u9524\u6253\u8ba9\u5b83\u53d8\u70ed\u3002"},
+      {text:"The future depends on what you do today.",source:"Mahatma Gandhi",language:"en",translation:"\u672a\u6765\u53d6\u51b3\u4e8e\u4f60\u4eca\u5929\u505a\u4ec0\u4e48\u3002"}
+    ];
+    const $=id=>document.getElementById(id),history=[];let cursor=-1;
+    function pick(except){let i=Math.floor(Math.random()*quotes.length);while(quotes.length>1&&i===except)i=Math.floor(Math.random()*quotes.length);return i}
+    function render(i){const q=quotes[i];$("quote").textContent=q.text;$("source").textContent="- "+q.source;$("translation").textContent=q.translation;$("label").textContent=q.language==="zh"?"English translation":"\u4e2d\u6587\u7ffb\u8bd1";$("count").textContent=`${cursor+1} / ${history.length}`;$("prev").disabled=cursor<=0}
+    function next(){history.splice(cursor+1);history.push(pick(history[cursor]));cursor=history.length-1;render(history[cursor])}
+    function prev(){if(cursor>0){cursor--;render(history[cursor])}}
+    $("next").addEventListener("click",next);$("prev").addEventListener("click",prev);next();
+  </script>
+</body>
+</html>
