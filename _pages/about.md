@@ -62,6 +62,8 @@ redirect_from:
 ## Recent News
 
 <ul class="news-list">
+  <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>06/2026</strong>: I will serve as a Program Committee member for <strong>USENIX Security 2027</strong>.</li>
+  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>05/2026</strong>: Our paper on multimodal jailbreak defense was accepted to <strong>ACM CCS 2026</strong>.</li>
   <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>03/2026</strong>: I am honored to serve on the IEEE Security and Privacy 2026 Artifact Evaluation Committee.</li>
   <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>01/2026</strong>: Our work <em>Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent-Child Perspectives of Risks in User-Generated Content</em> was accepted to <strong>CHI 2026</strong>.</li>
   <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>09/2025</strong>: Our research on automatic hate video detection was accepted to <strong>EMNLP 2025</strong>.</li>
