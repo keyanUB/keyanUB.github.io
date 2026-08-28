@@ -15,6 +15,20 @@ author_profile: true
   <div class="pub-year-divider"><span>2026</span></div>
   <div class="pub-list">
 
+     <article class="pub-card">
+      <div class="pub-card__left">
+        <span class="pub-venue-badge pub-venue-badge--chi">EMNLP<br>2026</span>
+      </div>
+      <div class="pub-card__body">
+        <p class="pub-title">"DualGauge: Automated Joint Security-Functionality Benchmarking of Specification-Only Code Generation by LLMs and Coding Agents"</p>
+        <p class="pub-authors">Rupam Patir*, <strong class="pub-me">Keyan Guo</strong>*, Suvadra Barua, Abhijeet Pathak, Dinesh Gudimetla, Jiawei Guo, Hongxin Hu, Haipeng Cai</p>
+        <p class="pub-venue-full">Findings of the Association for Computational Linguistics: EMNLP 2026</p>
+      </div>
+      <!-- <div class="pub-card__links">
+        <a class="btn pub-btn" href="">PDF</a>
+      </div> -->
+    </article>
+
     <article class="pub-card">
       <div class="pub-card__left">
         <span class="pub-venue-badge pub-venue-badge--chi">CHI<br>2026</span>
