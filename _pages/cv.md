@@ -26,12 +26,12 @@ redirect_from:
 
     <iframe
       class="cv-preview__frame"
-      src="{{ base_path }}/files/Keyan_Resume2026.pdf"
+      src="{{ base_path }}/files/Keyan_CV.pdf"
       title="Keyan Resume"
     >
       <p>
         Your browser cannot display the embedded PDF.
-        Open it directly <a href="{{ base_path }}/files/Keyan_Resume2026.pdf">here</a>.
+        Open it directly <a href="{{ base_path }}/files/Keyan_CV.pdf">here</a>.
       </p>
     </iframe>
   </div>
