@@ -7,100 +7,87 @@ redirect_from:
   - /about.html
 ---
 
-<nav class="page-nav" aria-label="Page sections">
-  <a class="page-nav__link" href="#about">About</a>
-  <a class="page-nav__link" href="#research">Research</a>
-  <a class="page-nav__link" href="#recent-news">News</a>
-  <a class="page-nav__link" href="#collaborators">Collaborators</a>
-  <a class="page-nav__link" href="#site-visitors">Visitors</a>
-</nav>
+I am a final-year Ph.D. candidate in Computer Science and Engineering at the University at Buffalo, SUNY, advised by
+[Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/).
+My research sits at the intersection of generative AI security, adversarial robustness, and platform safety,
+with a focus on making large-scale AI systems more trustworthy in deployment.
 
-<div class="home-hero" id="about">
-  <p class="home-hero__eyebrow">AI Security Researcher</p>
-  <h2 class="home-hero__headline">Building safer generative AI systems against real-world threats.</h2>
-  <p class="home-hero__summary">
-    I am a 4th-year Ph.D. candidate in Computer Science and Engineering at the University at Buffalo, SUNY, advised by
-    <a href="https://cse.buffalo.edu/~hongxinh/">Dr. Hongxin Hu</a>.
-    My research sits at the intersection of generative AI security, adversarial robustness, and platform safety,
-    with a focus on making large-scale AI systems more trustworthy in deployment.
-  </p>
-  <div class="home-hero__actions">
-    <a class="btn home-hero__button home-hero__button--secondary" href="/publications/">View Publications</a>
-    <a class="btn home-hero__button home-hero__button--secondary" href="/cv/">Read CV</a>
-    <a class="btn home-hero__button home-hero__button--primary" href="mailto:keyanguo@buffalo.edu">Contact Me</a>
-  </div>
-  <p class="home-hero__note">
-    I welcome research collaboration in various area, such as AI/ML, Cybersecurity, HCI, Social Science, etc.
-  </p>
-</div>
+I welcome research collaborations across AI/ML, cybersecurity, HCI, and the social sciences.
 
-<div class="home-grid" id="research">
-  <section class="home-card">
-    <h2>Research Focus</h2>
-    <ul class="home-list">
-      <li>Generative AI security and safety</li>
-      <li>Adversarial robustness for multimodal models</li>
-      <li>Online abuse, harmful meme, and hate content moderation</li>
-      <li>AI systems for real-world security and public-good applications</li>
-    </ul>
-  </section>
+<p class="home-links">
+  <a href="/cv/">CV</a> &middot;
+  <a href="/publications/">Publications</a> &middot;
+  <a href="https://scholar.google.com/citations?user=B8ectpwAAAAJ&hl=en">Google Scholar</a> &middot;
+  <a href="mailto:keyanguo@buffalo.edu">Email</a>
+</p>
 
-  <section class="home-card">
-    <h2>Selected Highlights</h2>
-    <ul class="home-list">
-      <li>CHI 2026 paper on parent-child perspectives in children's online safety</li>
-      <li>EMNLP 2025 paper on hateful video detection with multimodal LLMs</li>
-      <li>USENIX Security 2025 paper on defending LLMs against jailbreak attacks</li>
-      <li>NDSS 2025 paper on harmful meme understanding and detection</li>
-      <li>NDSS 2025 Internet Society Fellow</li>
-      <li>USENIX Security 2024 paper on moderating unsafe user-generated content games</li>
-      <li>IEEE S&amp;P 2024 paper on online hate moderation with chain-of-thought reasoning</li>
-    </ul>
-  </section>
-</div>
+## Research Interests
 
-## Recent News
+- Generative AI security and safety
+- Adversarial robustness for multimodal models
+- Online abuse, harmful meme, and hate content moderation
+- AI systems for real-world security and public-good applications
+
+## Selected Highlights
+
+- NDSS 2027 paper on defending LLM agents against indirect prompt injection
+- ACM CCS 2026 paper on safeguarding multimodal LLMs
+- EMNLP 2026 (Findings) paper on a joint security-functionality benchmark for code generation
+- CHI 2026 paper on parent-child perspectives in children's online safety
+- EMNLP 2025 paper on hateful video detection with multimodal LLMs
+- USENIX Security 2025 paper on defending LLMs against jailbreak attacks
+- NDSS 2025 paper on harmful meme understanding and detection
+- NDSS 2025 Internet Society Fellow
+- USENIX Security 2024 paper on moderating unsafe user-generated content games
+- IEEE S&P 2024 paper on online hate moderation with chain-of-thought reasoning
+
+## News
 
 <ul class="news-list">
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>09/2026</strong>: Our paper on how to practically protect AI agents against indirect prompt injection has been accepted by <strong>NDSS 2027</strong>!</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>08/2026</strong>: Our paper on a joint security-functionality evaluation benchmark for LLMs and coding agents was accepted by <strong>EMNLP Finding 2026</strong>!</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>05/2026</strong>: Our paper on multimodal jailbreak defense was accepted by <strong>ACM CCS 2026</strong>. See you in the Netherlands!</li>
-  <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>06/2026</strong>: I will serve as a Program Committee member for <strong>USENIX Security 2027</strong>.</li>
-  <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>03/2026</strong>: I am honored to serve on the IEEE Security and Privacy 2026 Artifact Evaluation Committee.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>01/2026</strong>: Our work <em>Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent-Child Perspectives of Risks in User-Generated Content</em> was accepted to <strong>CHI 2026</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>09/2025</strong>: Our research on automatic hate video detection was accepted to <strong>EMNLP 2025</strong>.</li>
-  <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>07/2025</strong>: I joined the NDSS 2026 Artifact Evaluation Committee.</li>
-  <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>05/2025</strong>: I served on the <strong>ASONAM 2025</strong> Program Committee.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>02/2025</strong>: I presented <em>I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models</em> at <strong>NDSS 2025</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>02/2025</strong>: Our work on detecting and mitigating jailbreak attacks for large language models was accepted to <strong>USENIX Security 2025</strong>.</li>
-  <li class="news-item news-item--award"><span class="news-tag news-tag--award">Award</span> <strong>01/2025</strong>: I was selected as an <strong>Internet Society Fellowship</strong> recipient for NDSS 2025.</li>
-  <li class="news-item news-item--award"><span class="news-tag news-tag--award">Award</span> <strong>12/2024</strong>: I received the <strong>CSE Best Research Project (PhD) Award</strong> at the University at Buffalo.</li>
-  <li class="news-item news-item--service"><span class="news-tag news-tag--service">Service</span> <strong>11/2024</strong>: I joined the artifact technical program committee for the 34th USENIX Security Symposium.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>10/2024</strong>: Our work on harmful meme detection was accepted to <strong>NDSS 2025</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>10/2024</strong>: Our work on AI-cybersecurity education with cyberharassment detection labs was accepted to <strong>CISSE 2024</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>10/2024</strong>: Our work on an AI-centered social cybersecurity education platform was accepted to <strong>CISSE 2024</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>10/2024</strong>: Our study on understanding cyberbullying images was accepted to <strong>ICMLA 2024</strong>.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>08/2024</strong>: I presented <em>Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models</em> at the <strong>33rd USENIX Security Symposium</strong>.</li>
-  <li class="news-item news-item--award"><span class="news-tag news-tag--award">Award</span> <strong>07/2024</strong>: I received a <strong>USENIX Conference Student Grant</strong>.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>06/2024</strong>: I presented the tutorial <em>Machine Learning Based Online Abuse Defense: Platform, Research, and Hands-on Labs</em> at <strong>ICWSM 2024</strong>.</li>
-  <li class="news-item news-item--media"><span class="news-tag news-tag--media">Media</span> <strong>05/2024</strong>: Our work on unsafe user-generated content was selected as a poster at the <strong>45th IEEE Symposium on Security and Privacy</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>04/2024</strong>: We had an accepted position statement at a <strong>CHI 2024 Workshop</strong>.</li>
-  <li class="news-item news-item--media"><span class="news-tag news-tag--media">Media</span> <strong>04/2024</strong>: Our ASONAM 2023 paper on COVID-19-related online hate propagation through hateful memes was selected for the <strong>ACM Showcase on Kudos</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>03/2024</strong>: Our paper <em>Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models</em> was accepted to <strong>USENIX Security 2024</strong>.</li>
-  <li class="news-item news-item--award"><span class="news-tag news-tag--award">Award</span> <strong>12/2023</strong>: I won the <strong>2023 Annual CSE Poster Competition</strong> and received the <strong>CSE Best AI Poster Award</strong> at the University at Buffalo.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>12/2023</strong>: I presented <em>An Investigation of Large Language Models for Real-World Hate Speech Detection</em> at <strong>ICMLA 2023</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>10/2023</strong>: Our paper <em>Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models</em> was accepted to <strong>IEEE S&amp;P 2024</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>10/2023</strong>: Our paper <em>An Investigation of Large Language Models for Real-World Hate Speech Detection</em> was accepted to <strong>ICMLA 2023</strong>.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>09/2023</strong>: I presented <em>Understanding and Measuring Robustness of Vision and Language Multimodal Models</em> at <strong>SKM 2023</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>09/2023</strong>: Our paper on COVID-19-related online hate propagation through hateful memes was accepted to <strong>ASONAM 2023</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>08/2023</strong>: Our paper <em>AI-Cybersecurity Education Through Designing AI-based Cyberharassment Detection Lab</em> was accepted to <strong>FIE 2023</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>08/2023</strong>: Our paper <em>Understanding and Measuring Robustness of Vision and Language Multimodal Models</em> was accepted to <strong>SKM 2023</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>08/2023</strong>: Our paper <em>Exploring Vulnerabilities in Voice Command Skills for Connected Vehicles</em> was accepted to <strong>EAI SmartSP 2023</strong>.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>04/2023</strong>: I presented <em>Mitigating Online Hate in the Evolving Cyber Environment: Rapid Adaptation and Moderation of Emerging Threats</em> at <strong>GLSD 2023</strong>.</li>
-  <li class="news-item news-item--paper"><span class="news-tag news-tag--paper">Paper</span> <strong>11/2022</strong>: Our paper on the generalizability of hateful memes detection models against COVID-19-related hateful memes was accepted to <strong>ICMLA 2022</strong>.</li>
-  <li class="news-item news-item--award"><span class="news-tag news-tag--award">Award</span> <strong>11/2022</strong>: I received the <strong>CSE Best Graduate Teaching Award</strong> at the University at Buffalo.</li>
-  <li class="news-item news-item--talk"><span class="news-tag news-tag--talk">Talk</span> <strong>11/2022</strong>: We presented the demo paper <em>Understanding the Effects of Paint Colors on LiDAR Point Cloud Intensities</em> at <strong>AutoSec 2022</strong>.</li>
+  <li><span class="news-date">09/2026</span> <span>Our paper on how to practically protect AI agents against indirect prompt injection has been accepted by <strong>NDSS 2027</strong>!</span></li>
+  <li><span class="news-date">08/2026</span> <span>Our paper on a joint security-functionality evaluation benchmark for LLMs and coding agents was accepted by <strong>EMNLP 2026 (Findings)</strong>!</span></li>
+  <li><span class="news-date">06/2026</span> <span>I will serve as a Program Committee member for <strong>USENIX Security 2027</strong>.</span></li>
+  <li><span class="news-date">05/2026</span> <span>Our paper on multimodal jailbreak defense was accepted by <strong>ACM CCS 2026</strong>. See you in the Netherlands!</span></li>
+  <li><span class="news-date">03/2026</span> <span>I am honored to serve on the IEEE Security and Privacy 2026 Artifact Evaluation Committee.</span></li>
+  <li><span class="news-date">01/2026</span> <span>Our work <em>Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent-Child Perspectives of Risks in User-Generated Content</em> was accepted to <strong>CHI 2026</strong>.</span></li>
+  <li><span class="news-date">09/2025</span> <span>Our research on automatic hate video detection was accepted to <strong>EMNLP 2025</strong>.</span></li>
+  <li><span class="news-date">07/2025</span> <span>I joined the NDSS 2026 Artifact Evaluation Committee.</span></li>
+  <li><span class="news-date">05/2025</span> <span>I served on the <strong>ASONAM 2025</strong> Program Committee.</span></li>
+  <li><span class="news-date">02/2025</span> <span>I presented <em>I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models</em> at <strong>NDSS 2025</strong>.</span></li>
+  <li><span class="news-date">02/2025</span> <span>Our work on detecting and mitigating jailbreak attacks for large language models was accepted to <strong>USENIX Security 2025</strong>.</span></li>
+  <li><span class="news-date">01/2025</span> <span>I was selected as an <strong>Internet Society Fellowship</strong> recipient for NDSS 2025.</span></li>
 </ul>
+
+<details class="news-older">
+<summary>Earlier news</summary>
+<ul class="news-list">
+  <li><span class="news-date">12/2024</span> <span>I received the <strong>CSE Best Research Project (PhD) Award</strong> at the University at Buffalo.</span></li>
+  <li><span class="news-date">11/2024</span> <span>I joined the artifact technical program committee for the 34th USENIX Security Symposium.</span></li>
+  <li><span class="news-date">10/2024</span> <span>Our work on harmful meme detection was accepted to <strong>NDSS 2025</strong>.</span></li>
+  <li><span class="news-date">10/2024</span> <span>Our work on AI-cybersecurity education with cyberharassment detection labs was accepted to <strong>CISSE 2024</strong>.</span></li>
+  <li><span class="news-date">10/2024</span> <span>Our work on an AI-centered social cybersecurity education platform was accepted to <strong>CISSE 2024</strong>.</span></li>
+  <li><span class="news-date">10/2024</span> <span>Our study on understanding cyberbullying images was accepted to <strong>ICMLA 2024</strong>.</span></li>
+  <li><span class="news-date">08/2024</span> <span>I presented <em>Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models</em> at the <strong>33rd USENIX Security Symposium</strong>.</span></li>
+  <li><span class="news-date">07/2024</span> <span>I received a <strong>USENIX Conference Student Grant</strong>.</span></li>
+  <li><span class="news-date">06/2024</span> <span>I presented the tutorial <em>Machine Learning Based Online Abuse Defense: Platform, Research, and Hands-on Labs</em> at <strong>ICWSM 2024</strong>.</span></li>
+  <li><span class="news-date">05/2024</span> <span>Our work on unsafe user-generated content was selected as a poster at the <strong>45th IEEE Symposium on Security and Privacy</strong>.</span></li>
+  <li><span class="news-date">04/2024</span> <span>We had an accepted position statement at a <strong>CHI 2024 Workshop</strong>.</span></li>
+  <li><span class="news-date">04/2024</span> <span>Our ASONAM 2023 paper on COVID-19-related online hate propagation through hateful memes was selected for the <strong>ACM Showcase on Kudos</strong>.</span></li>
+  <li><span class="news-date">03/2024</span> <span>Our paper <em>Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models</em> was accepted to <strong>USENIX Security 2024</strong>.</span></li>
+  <li><span class="news-date">12/2023</span> <span>I won the <strong>2023 Annual CSE Poster Competition</strong> and received the <strong>CSE Best AI Poster Award</strong> at the University at Buffalo.</span></li>
+  <li><span class="news-date">12/2023</span> <span>I presented <em>An Investigation of Large Language Models for Real-World Hate Speech Detection</em> at <strong>ICMLA 2023</strong>.</span></li>
+  <li><span class="news-date">10/2023</span> <span>Our paper <em>Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models</em> was accepted to <strong>IEEE S&amp;P 2024</strong>.</span></li>
+  <li><span class="news-date">10/2023</span> <span>Our paper <em>An Investigation of Large Language Models for Real-World Hate Speech Detection</em> was accepted to <strong>ICMLA 2023</strong>.</span></li>
+  <li><span class="news-date">09/2023</span> <span>I presented <em>Understanding and Measuring Robustness of Vision and Language Multimodal Models</em> at <strong>SKM 2023</strong>.</span></li>
+  <li><span class="news-date">09/2023</span> <span>Our paper on COVID-19-related online hate propagation through hateful memes was accepted to <strong>ASONAM 2023</strong>.</span></li>
+  <li><span class="news-date">08/2023</span> <span>Our paper <em>Understanding and Measuring Robustness of Vision and Language Multimodal Models</em> was accepted to <strong>SKM 2023</strong>.</span></li>
+  <li><span class="news-date">08/2023</span> <span>Our paper <em>Exploring Vulnerabilities in Voice Command Skills for Connected Vehicles</em> was accepted to <strong>EAI SmartSP 2023</strong>.</span></li>
+  <li><span class="news-date">04/2023</span> <span>I presented <em>Mitigating Online Hate in the Evolving Cyber Environment: Rapid Adaptation and Moderation of Emerging Threats</em> at <strong>GLSD 2023</strong>.</span></li>
+  <li><span class="news-date">11/2022</span> <span>Our paper on the generalizability of hateful memes detection models against COVID-19-related hateful memes was accepted to <strong>ICMLA 2022</strong>.</span></li>
+  <li><span class="news-date">11/2022</span> <span>I received the <strong>CSE Best Graduate Teaching Award</strong> at the University at Buffalo.</span></li>
+  <li><span class="news-date">11/2022</span> <span>We presented the demo paper <em>Understanding the Effects of Paint Colors on LiDAR Point Cloud Intensities</em> at <strong>AutoSec 2022</strong>.</span></li>
+</ul>
+</details>
 
 ## Collaborators
 
@@ -138,24 +125,3 @@ Alexander Hu (now at UCLA), David Cong (now at Duke University), Helen Qin, Isha
     sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
   ></iframe>
 </div>
-
-<script>
-(function () {
-  var links = document.querySelectorAll('.page-nav__link');
-  var sections = Array.from(links).map(function (l) {
-    return document.querySelector(l.getAttribute('href'));
-  });
-
-  var observer = new IntersectionObserver(function (entries) {
-    entries.forEach(function (entry) {
-      if (entry.isIntersecting) {
-        links.forEach(function (l) { l.classList.remove('is-active'); });
-        var active = document.querySelector('.page-nav__link[href="#' + entry.target.id + '"]');
-        if (active) active.classList.add('is-active');
-      }
-    });
-  }, { rootMargin: '-10% 0px -80% 0px' });
-
-  sections.forEach(function (s) { if (s) observer.observe(s); });
-})();
-</script>
