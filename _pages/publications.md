@@ -25,7 +25,7 @@ author_profile: true
   <li class="pub">
     <span class="pub-venue">CCS 2026</span>
     <span class="pub-title">MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration</span>
-    <span class="pub-authors">Shenyi Zhang*, <span class="pub-me">Keyan Guo</span>*, Zihao Wang, Xuebin Li, Lingchen Zhao, Hongxin Hu, Chao Shen, Qian Wang</span>
+    <span class="pub-authors">Shenyi Zhang, <span class="pub-me">Keyan Guo</span>, Zihao Wang, Xuebin Li, Lingchen Zhao, Hongxin Hu, Chao Shen, Qian Wang</span>
     <span class="pub-venue-full">ACM Conference on Computer and Communications Security (CCS), 2026.</span>
   </li>
   <li class="pub">
