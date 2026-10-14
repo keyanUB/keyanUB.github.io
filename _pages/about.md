@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate in Computer Science and Engineering at the University at Buffalo, SUNY, advised by
-[Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/).
-My research sits at the intersection of generative AI security, adversarial robustness, and platform safety,
-with a focus on making large-scale AI systems more trustworthy in deployment.
+I am a final-year Ph.D. candidate in Computer Science and Engineering at the University at Buffalo, SUNY, advised by [Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/). My research advances **CyberAI**, the intersection of AI and cybersecurity, with the goal of building *generative AI that protects and can be protected*: securing LLMs, AI agents, and AI-generated code against attacks, and harnessing generative AI to protect people, especially children, from online harms.
 
-I welcome research collaborations across AI/ML, cybersecurity, HCI, and the social sciences.
+**I am on the 2026–2027 academic job market.**
+
+I welcome research collaborations across cybersecurity, AI/ML, software engineering, HCI, and the social sciences.
 
 <p class="home-links">
   <a href="/cv/">CV</a> &middot;
@@ -23,33 +22,40 @@ I welcome research collaborations across AI/ML, cybersecurity, HCI, and the soci
 
 ## Research Interests
 
-- Generative AI security and safety
-- Adversarial robustness for multimodal models
-- Online abuse, harmful meme, and hate content moderation
-- AI systems for real-world security and public-good applications
+- **AI security and safety:** defending LLMs, multimodal models, and AI agents; securing AI-generated code
+- **AI for cybersecurity and online safety:** detecting and moderating online hate, harmful memes, and unsafe content
+- **Human-centered security:** understanding how people, especially children, experience online risks
+
 
 ## Selected Highlights
 
-- NDSS 2027 paper on defending LLM agents against indirect prompt injection
-- ACM CCS 2026 paper on safeguarding multimodal LLMs
-- EMNLP 2026 (Findings) paper on a joint security-functionality benchmark for code generation
-- CHI 2026 paper on parent-child perspectives in children's online safety
-- EMNLP 2025 paper on hateful video detection with multimodal LLMs
-- USENIX Security 2025 paper on defending LLMs against jailbreak attacks
-- NDSS 2025 paper on harmful meme understanding and detection
-- NDSS 2025 Internet Society Fellow
-- USENIX Security 2024 paper on moderating unsafe user-generated content games
-- IEEE S&P 2024 paper on online hate moderation with chain-of-thought reasoning
+**Publications**
+- NDSS 2027: defending LLM agents against indirect prompt injection
+- ACM CCS 2026: safeguarding multimodal LLMs
+- CHI 2026: rethinking children's online safety beyond age-based restrictions
+- EMNLP 2026 (Findings): joint security–functionality benchmarking of AI-generated code
+- USENIX Security 2025: defending LLMs against jailbreak attacks
+- NDSS 2025: understanding and detecting harmful memes
+- USENIX Security 2024: moderating illicit promotion of unsafe user-generated content games
+- IEEE S&P 2024: moderating new waves of online hate with chain-of-thought reasoning
+
+**Awards**
+- NDSS Internet Society Fellowship (2025)
+- UB CSE Best Ph.D. Research Project Award (2024)
+- UB Student Academic Excellence Showcase (2024)
+- UB CSE Best AI Poster Award (2023)
+- UB CSE Best Graduate Teaching Award (2022)
 
 ## News
 
 <ul class="news-list">
+  <li><span class="news-date">10/2026</span> <span>I am on the <strong>2026–2027 academic job market</strong>. Please feel free to reach out!</span></li>
   <li><span class="news-date">09/2026</span> <span>Our paper on how to practically protect AI agents against indirect prompt injection has been accepted by <strong>NDSS 2027</strong>!</span></li>
   <li><span class="news-date">08/2026</span> <span>Our paper on a joint security-functionality evaluation benchmark for LLMs and coding agents was accepted by <strong>EMNLP 2026 (Findings)</strong>!</span></li>
   <li><span class="news-date">06/2026</span> <span>I will serve as a Program Committee member for <strong>USENIX Security 2027</strong>.</span></li>
-  <li><span class="news-date">05/2026</span> <span>Our paper on multimodal jailbreak defense was accepted by <strong>ACM CCS 2026</strong>. See you in the Netherlands!</span></li>
+  <li><span class="news-date">05/2026</span> <span>Our paper on multimodal jailbreak defense was accepted by <strong>ACM CCS 2026</strong>!</span></li>
   <li><span class="news-date">03/2026</span> <span>I am honored to serve on the IEEE Security and Privacy 2026 Artifact Evaluation Committee.</span></li>
-  <li><span class="news-date">01/2026</span> <span>Our work <em>Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent-Child Perspectives of Risks in User-Generated Content</em> was accepted to <strong>CHI 2026</strong>.</span></li>
+  <li><span class="news-date">01/2026</span> <span>Our work <em>Beyond Age-Based Restrictions: Rethinking Children’s Online Safety Through Comparing Parent–Child Perspectives of Risks in User-Generated Content Games</em> was accepted to <strong>CHI 2026</strong>.</span></li>
   <li><span class="news-date">09/2025</span> <span>Our research on automatic hate video detection was accepted to <strong>EMNLP 2025</strong>.</span></li>
   <li><span class="news-date">07/2025</span> <span>I joined the NDSS 2026 Artifact Evaluation Committee.</span></li>
   <li><span class="news-date">05/2025</span> <span>I served on the <strong>ASONAM 2025</strong> Program Committee.</span></li>
@@ -93,27 +99,27 @@ I welcome research collaborations across AI/ML, cybersecurity, HCI, and the soci
 
 ### Faculty Collaborators
 
-Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), Dr. [Ziming Zhao](https://zzm7000.github.io/), Dr. [Nishant Vishwamitra](https://nishantvishwamitra.github.io/), Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), Dr. [Guo Freeman](https://guof.people.clemson.edu), Dr. [Qian Wang](http://nisplab.whu.edu.cn/people.html), Dr. Juan Wang, Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.ncat.edu/employee-bio.php?directoryID=1518403122), Dr. [Chunming Qiao](https://cse.buffalo.edu/~qiao/index.htm), Dr. [Feng Luo](https://people.computing.clemson.edu/~luofeng/), Dr. [Jeannette Wade](https://hhs.uncg.edu/people/wade-jeannette-m/)
+Dr. [Hongxin Hu](https://cse.buffalo.edu/~hongxinh/), Dr. [Haipeng Cai](https://chapering.github.io/), Dr. [Ziming Zhao](https://zzm7000.github.io/), Dr. [Nishant Vishwamitra](https://nishantvishwamitra.github.io/), Dr. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/), Dr. [Guo Freeman](https://guof.people.clemson.edu), Dr. [Qian Wang](http://nisplab.whu.edu.cn/people.html), Dr. Juan Wang, Dr. [Guofei Gu](https://people.engr.tamu.edu/guofei/index.html), Dr. [Yongkai Wu](https://www.yongkaiwu.com/), Dr. [Xiaohong Yuan](https://www.ncat.edu/employee-bio.php?directoryID=1518403122), Dr. [Chunming Qiao](https://cse.buffalo.edu/~qiao/index.htm), Dr. [Feng Luo](https://people.computing.clemson.edu/~luofeng/), Dr. [Jeannette Wade](https://hhs.uncg.edu/people/wade-jeannette-m/)
 
 ### Ph.D. Student Collaborators
 
-[Ebuka Okpala](https://ejokpala.com/), [Feng Wei](https://www-student.cse.buffalo.edu/~fengwei/), [Foad Hajiaghajani](https://ubwp.buffalo.edu/cavas/team-members/foad-hajiaghajani/), [Gaoxiang Liu](https://www.linkedin.com/in/gaoxiang-liu-831571132/), [Isabelle Ondracek](https://www.linkedin.com/in/isabelle-ondracek/?trk=people_directory), [Song Liao](https://songacademic.github.io/), [Md. Armanuzzaman Tomal](https://tomal-kuet.github.io/armanuzzaman/), [Mohammed Aldeen](https://scholar.google.com/citations?user=jSVFlYUAAAAJ&hl=en), [Qiqing Huang](https://www.linkedin.com/in/qiqing-huang-7145a810a/?locale=en_US), [Ruchi Panchanadikar](https://www.ruchipanchanadikar.com/), [Rupam Patir](https://www.linkedin.com/in/rupam-patir-323b4797/), [Wenbo Ding](https://www.linkedin.com/in/wenbo-ding-77416414b/), [Xi Tan](https://mintancy.github.io), [Yang Hu](https://scholar.google.com/citations?user=tj7aI20AAAAJ&hl=en), Yong Zhuang, [Shenyi Zhang](https://scholar.google.com/citations?user=xj4Mxp8AAAAJ&hl=zh-CN), [Zheyuan Ma](https://scholar.google.com/citations?user=3ZKnS6EAAAAJ&hl=en)
+[Ebuka Okpala](https://ejokpala.com/), [Feng Wei](https://www-student.cse.buffalo.edu/~fengwei/), [Foad Hajiaghajani](https://ubwp.buffalo.edu/cavas/team-members/foad-hajiaghajani/), [Gaoxiang Liu](https://www.linkedin.com/in/gaoxiang-liu-831571132/), [Md. Armanuzzaman Tomal](https://tomal-kuet.github.io/armanuzzaman/), [Mohammed Aldeen](https://scholar.google.com/citations?user=jSVFlYUAAAAJ&hl=en), [Qiqing Huang](https://www.linkedin.com/in/qiqing-huang-7145a810a/?locale=en_US), [Ruchi Panchanadikar](https://www.ruchipanchanadikar.com/), [Rupam Patir](https://www.linkedin.com/in/rupam-patir-323b4797/), [Shenyi Zhang](https://scholar.google.com/citations?user=xj4Mxp8AAAAJ&hl=zh-CN), [Song Liao](https://songacademic.github.io/), Tian Zhang, [Wenbo Ding](https://www.linkedin.com/in/wenbo-ding-77416414b/), [Xi Tan](https://mintancy.github.io), [Yang Hu](https://scholar.google.com/citations?user=tj7aI20AAAAJ&hl=en), Yiheng Jing, Yong Zhuang, [Zheyuan Ma](https://scholar.google.com/citations?user=3ZKnS6EAAAAJ&hl=en)
 
 <p class="home-footnote">Sorted alphabetically by first name.</p>
 
 ### Undergraduate and Graduate Student Collaborators
 
-[Amardhruva Narasimha Prabhu](https://www.linkedin.com/in/amardhruva/), [Ayush Utkarsh](https://www.linkedin.com/in/ayushutkarsh/), [Pal Dave](https://www.linkedin.com/in/pal-dave-59b6b3182/?originalSubdomain=in), [Radhika Singh](https://www.linkedin.com/in/radhika-singh-10/), [Shaik Sabiha](https://www.linkedin.com/in/sabiha-shaik/)
+[Amardhruva Narasimha Prabhu](https://www.linkedin.com/in/amardhruva/), [Ayush Utkarsh](https://www.linkedin.com/in/ayushutkarsh/), [Isabelle Ondracek](https://www.linkedin.com/in/isabelle-ondracek/?trk=people_directory), [Pal Dave](https://www.linkedin.com/in/pal-dave-59b6b3182/?originalSubdomain=in), [Radhika Singh](https://www.linkedin.com/in/radhika-singh-10/), [Shaik Sabiha](https://www.linkedin.com/in/sabiha-shaik/), Shishir Hebbar
 
 <p class="home-footnote">Sorted alphabetically by first name.</p>
 
 ### High School Student Collaborators
 
-Alexander Hu (now at UCLA), David Cong (now at Duke University), Helen Qin, Ishan Ajay, Jaden Mu (now at Carnegie Mellon University), Johnson Chen, Wentai Zhao (now at the University of Michigan)
+Alexander Hu (now at UCLA), Alicia Gu (now at Stanford University), David Cong (now at Duke University), Helen Qin, Ishan Ajay, Jaden Mu (now at Carnegie Mellon University), Johnson Chen, Wentai Zhao (now at the University of Michigan)
 
 <p class="home-footnote">Sorted alphabetically by first name.</p>
 
-## Site Visitors
+<!-- ## Site Visitors
 
 <div class="site-stats">
   <iframe
@@ -124,4 +130,4 @@ Alexander Hu (now at UCLA), David Cong (now at Duke University), Helen Qin, Isha
     allowfullscreen
     sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
   ></iframe>
-</div>
+</div> -->

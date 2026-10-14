@@ -11,8 +11,8 @@ redirect_from:
 
 <div class="cv-page">
   <p>
-    Download my <a href="{{ base_path }}/files/Keyan_Resume2026.pdf">Resume (PDF)</a> or my full
-    <a href="{{ base_path }}/files/Keyan_CV.pdf">Curriculum Vitae (PDF)</a>.
+    <!-- Download my <a href="{{ base_path }}/files/Keyan_Resume2026.pdf">Resume (PDF)</a> or my full -->
+    View my Curriculum Vitae (PDF) hereh: <a href="{{ base_path }}/files/Keyan_CV_public.pdf"></a>.
   </p>
 
   <div class="cv-preview">
@@ -26,7 +26,7 @@ redirect_from:
 
     <iframe
       class="cv-preview__frame"
-      src="{{ base_path }}/files/Keyan_CV.pdf"
+      src="{{ base_path }}/files/Keyan_CV_public.pdf"
       title="Keyan Resume"
     >
       <p>
