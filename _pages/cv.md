@@ -12,12 +12,12 @@ redirect_from:
 <div class="cv-page">
   <p>
     <!-- Download my <a href="{{ base_path }}/files/Keyan_Resume2026.pdf">Resume (PDF)</a> or my full -->
-    View my Curriculum Vitae (PDF) hereh: <a href="{{ base_path }}/files/Keyan_CV_public.pdf"></a>.
+    View my Curriculum Vitae <a href="{{ base_path }}/files/Keyan_CV_public.pdf"> (PDF)</a>.
   </p>
 
   <div class="cv-preview">
     <div class="cv-preview__header">
-      <h2>Resume Preview</h2>
+      <h2>CV Preview</h2>
       <!-- <div class="cv-preview__actions">
         <a class="btn btn--primary" href="{{ base_path }}/files/Keyan_Resume2026.pdf">Download Resume</a>
         <a class="btn btn--inverse" href="{{ base_path }}/files/Keyan_CV.pdf">Download CV</a>
